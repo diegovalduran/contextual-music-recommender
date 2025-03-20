@@ -115,8 +115,8 @@ While developed for music, the core techniques can be applied to video content:
 1. **Environment Setup**:
    ```bash
    # Create and activate a virtual environment
-   python -m venv venv
-   source venv/bin/activate 
+   python -m venv env
+   source env/bin/activate 
    
    # Install dependencies
    pip install -r requirements.txt

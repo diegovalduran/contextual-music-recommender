@@ -265,3 +265,8 @@ INFO:root:Namespace(model_name='LR')
 INFO:root:train results -- accuracy:0.5147, macro_f1:0.2744, micro_f1:0.5147
 INFO:root:val results -- accuracy:0.4318, macro_f1:0.2409, micro_f1:0.4318
 INFO:root:test results -- accuracy:0.4538, macro_f1:0.2193, micro_f1:0.4538
+INFO:root:Save model to ../models/LR_3class/setting3-104__104__setting3_CONTEXT_obj_104__penalty=l1__solver=liblinear/model.pt
+INFO:root:Namespace(model_name='LR')
+INFO:root:train results -- accuracy:0.5147, macro_f1:0.2744, micro_f1:0.5147
+INFO:root:val results -- accuracy:0.4318, macro_f1:0.2409, micro_f1:0.4318
+INFO:root:test results -- accuracy:0.4538, macro_f1:0.2193, micro_f1:0.4538

@@ -342,3 +342,13 @@ INFO:root:Namespace(model_name='LR')
 INFO:root:train results -- accuracy:0.6026, macro_f1:0.4535, micro_f1:0.6026
 INFO:root:val results -- accuracy:0.5682, macro_f1:0.4458, micro_f1:0.5682
 INFO:root:test results -- accuracy:0.4923, macro_f1:0.3663, micro_f1:0.4923
+INFO:root:Save model to ../models/LR_3class/setting2-106__106__setting2_CONTEXT_all_106__penalty=l1__solver=liblinear/model.pt
+INFO:root:Namespace(model_name='LR')
+INFO:root:train results -- accuracy:0.6026, macro_f1:0.4535, micro_f1:0.6026
+INFO:root:val results -- accuracy:0.5682, macro_f1:0.4458, micro_f1:0.5682
+INFO:root:test results -- accuracy:0.4923, macro_f1:0.3663, micro_f1:0.4923
+INFO:root:Save model to ../models/LR_3class/setting2-106__106__setting2_CONTEXT_all_106__penalty=l1__solver=liblinear/model.pt
+INFO:root:Namespace(model_name='LR')
+INFO:root:train results -- accuracy:0.6026, macro_f1:0.4535, micro_f1:0.6026
+INFO:root:val results -- accuracy:0.5682, macro_f1:0.4458, micro_f1:0.5682
+INFO:root:test results -- accuracy:0.4923, macro_f1:0.3663, micro_f1:0.4923

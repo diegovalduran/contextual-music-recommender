@@ -1068,3 +1068,20 @@ INFO:root:Namespace(model_name='LR')
 INFO:root:train results -- accuracy:0.5782, macro_f1:0.4556, micro_f1:0.5782
 INFO:root:val results -- accuracy:0.5795, macro_f1:0.4001, micro_f1:0.5795
 INFO:root:test results -- accuracy:0.5744, macro_f1:0.4553, micro_f1:0.5744
+INFO:root:Save model to ../models/LR_3class/setting2-101__101__setting2_CONTEXT_all_101__penalty=l1__solver=liblinear/model.pt
+INFO:root:Namespace(model_name='LR')
+INFO:root:train results -- accuracy:0.5782, macro_f1:0.4556, micro_f1:0.5782
+INFO:root:val results -- accuracy:0.5795, macro_f1:0.4001, micro_f1:0.5795
+INFO:root:test results -- accuracy:0.5744, macro_f1:0.4553, micro_f1:0.5744
+INFO:root:Save model to ../models/LR_3class/setting2-101__101__setting2_CONTEXT_all_101__penalty=l1__solver=liblinear/model.pt
+INFO:root:Namespace(model_name='LR')
+INFO:root:train results -- accuracy:0.5782, macro_f1:0.4556, micro_f1:0.5782
+INFO:root:val results -- accuracy:0.5795, macro_f1:0.4001, micro_f1:0.5795
+INFO:root:test results -- accuracy:0.5744, macro_f1:0.4553, micro_f1:0.5744
+INFO:root:Save model to ../models/LR_3class/setting2-101__101__setting2_CONTEXT_all_101__penalty=l1__solver=liblinear/model.pt
+INFO:root:Namespace(model_name='LR')
+INFO:root:Save model to ../models/LR_3class/setting2-101__101__setting2_CONTEXT_all_101__penalty=l1__solver=liblinear/model.pt
+INFO:root:Namespace(model_name='LR')
+INFO:root:train results -- accuracy:0.5782, macro_f1:0.4556, micro_f1:0.5782
+INFO:root:val results -- accuracy:0.5795, macro_f1:0.4001, micro_f1:0.5795
+INFO:root:test results -- accuracy:0.5744, macro_f1:0.4553, micro_f1:0.5744

@@ -67,3 +67,8 @@ INFO:root:Namespace(model_name='RF')
 INFO:root:train results -- accuracy:0.7231, macro_f1:0.6564, micro_f1:0.7231
 INFO:root:val results -- accuracy:0.6477, macro_f1:0.5535, micro_f1:0.6477
 INFO:root:test results -- accuracy:0.4754, macro_f1:0.2728, micro_f1:0.4754
+INFO:root:Save model to ../models/RF_3class/setting3-110__110__setting3_CONTEXT_sub_110__n_estimators=200__max_depth=5__max_features=None/model.pt
+INFO:root:Namespace(model_name='RF')
+INFO:root:train results -- accuracy:0.7231, macro_f1:0.6564, micro_f1:0.7231
+INFO:root:val results -- accuracy:0.6477, macro_f1:0.5535, micro_f1:0.6477
+INFO:root:test results -- accuracy:0.4754, macro_f1:0.2728, micro_f1:0.4754

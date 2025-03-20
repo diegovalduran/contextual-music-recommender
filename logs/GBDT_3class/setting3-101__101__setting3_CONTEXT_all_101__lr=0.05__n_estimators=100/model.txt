@@ -87,3 +87,8 @@ INFO:root:Namespace(model_name='GBDT')
 INFO:root:train results -- accuracy:0.8046, macro_f1:0.7768, micro_f1:0.8046
 INFO:root:val results -- accuracy:0.5341, macro_f1:0.4017, micro_f1:0.5341
 INFO:root:test results -- accuracy:0.4656, macro_f1:0.2400, micro_f1:0.4656
+INFO:root:Save model to ../models/GBDT_3class/setting3-101__101__setting3_CONTEXT_all_101__lr=0.05__n_estimators=100/model.pt
+INFO:root:Namespace(model_name='GBDT')
+INFO:root:train results -- accuracy:0.8046, macro_f1:0.7768, micro_f1:0.8046
+INFO:root:val results -- accuracy:0.5341, macro_f1:0.4017, micro_f1:0.5341
+INFO:root:test results -- accuracy:0.4656, macro_f1:0.2400, micro_f1:0.4656

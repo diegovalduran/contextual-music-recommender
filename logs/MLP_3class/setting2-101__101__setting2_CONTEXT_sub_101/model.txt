@@ -148,3 +148,8 @@ INFO:root:Namespace(model_name='MLP')
 INFO:root:train results -- accuracy:0.5016, macro_f1:0.2227, micro_f1:0.5016
 INFO:root:val results -- accuracy:0.5795, macro_f1:0.2446, micro_f1:0.5795
 INFO:root:test results -- accuracy:0.4821, macro_f1:0.2168, micro_f1:0.4821
+INFO:root:Save model to ../models/MLP_3class/setting2-101__101__setting2_CONTEXT_sub_101/model.pt
+INFO:root:Namespace(model_name='MLP')
+INFO:root:train results -- accuracy:0.5016, macro_f1:0.2227, micro_f1:0.5016
+INFO:root:val results -- accuracy:0.5795, macro_f1:0.2446, micro_f1:0.5795
+INFO:root:test results -- accuracy:0.4821, macro_f1:0.2168, micro_f1:0.4821
