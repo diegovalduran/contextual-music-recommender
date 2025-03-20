@@ -1,0 +1,69 @@
+INFO:root:Save model to ../models/RF_3class/setting2-103__103__setting2_CONTEXT_obj_103__n_estimators=300__max_depth=3__max_features=None/model.pt
+INFO:root:Namespace(model_name='RF')
+INFO:root:--------------------------------------------- BEGIN: 2024-11-09 23:38:25 ---------------------------------------------
+INFO:root:
+=============================================
+ Arguments            | Values               
+=============================================
+ class_num            | 3                    
+ context_column_group | CONTEXT_obj          
+ criterion            | gini                 
+ datadir              | ../datasets/Psych... 
+ dataname             | setting2-103         
+ load_metadata        | 1                    
+ max_depth            | 3                    
+ max_features         |                      
+ max_leaf_nodes       |                      
+ metrics              | accuracy,macro_f1... 
+ min_samples_leaf     | 1                    
+ min_samples_split    | 2                    
+ n_estimators         | 300                  
+ random_seed          | 103                  
+ save_anno            | setting2_CONTEXT_... 
+ save_prediction      | 0                    
+=============================================
+INFO:root:train results -- accuracy:0.5668, macro_f1:0.3854, micro_f1:0.5668
+INFO:root:val results -- accuracy:0.5455, macro_f1:0.3161, micro_f1:0.5455
+INFO:root:test results -- accuracy:0.5282, macro_f1:0.2788, micro_f1:0.5282
+INFO:root:Save model to ../models/RF_3class/setting2-103__103__setting2_CONTEXT_obj_103__n_estimators=300__max_depth=3__max_features=None/model.pt
+INFO:root:Namespace(model_name='RF')
+INFO:root:--------------------------------------------- BEGIN: 2024-12-07 04:37:25 ---------------------------------------------
+INFO:root:
+=============================================
+ Arguments            | Values               
+=============================================
+ class_num            | 3                    
+ context_column_group | CONTEXT_obj          
+ criterion            | gini                 
+ datadir              | ../datasets/Psych... 
+ dataname             | setting2-103         
+ load_metadata        | 1                    
+ max_depth            | 3                    
+ max_features         |                      
+ max_leaf_nodes       |                      
+ metrics              | accuracy,macro_f1... 
+ min_samples_leaf     | 1                    
+ min_samples_split    | 2                    
+ n_estimators         | 300                  
+ random_seed          | 103                  
+ save_anno            | setting2_CONTEXT_... 
+ save_prediction      | 0                    
+=============================================
+INFO:root:train results -- accuracy:0.5668, macro_f1:0.3854, micro_f1:0.5668
+INFO:root:val results -- accuracy:0.5455, macro_f1:0.3161, micro_f1:0.5455
+INFO:root:test results -- accuracy:0.5282, macro_f1:0.2788, micro_f1:0.5282
+INFO:root:Save model to ../models/RF_3class/setting2-103__103__setting2_CONTEXT_obj_103__n_estimators=300__max_depth=3__max_features=None/model.pt
+INFO:root:Namespace(model_name='RF')
+INFO:root:train results -- accuracy:0.5668, macro_f1:0.3854, micro_f1:0.5668
+INFO:root:val results -- accuracy:0.5455, macro_f1:0.3161, micro_f1:0.5455
+INFO:root:test results -- accuracy:0.5282, macro_f1:0.2788, micro_f1:0.5282
+INFO:root:Save model to ../models/RF_3class/setting2-103__103__setting2_CONTEXT_obj_103__n_estimators=300__max_depth=3__max_features=None/model.pt
+INFO:root:Namespace(model_name='RF')
+INFO:root:train results -- accuracy:0.5668, macro_f1:0.3854, micro_f1:0.5668
+INFO:root:val results -- accuracy:0.5455, macro_f1:0.3161, micro_f1:0.5455
+INFO:root:test results -- accuracy:0.5282, macro_f1:0.2788, micro_f1:0.5282
+INFO:root:Save model to ../models/RF_3class/setting2-103__103__setting2_CONTEXT_obj_103__n_estimators=300__max_depth=3__max_features=None/model.pt
+INFO:root:Namespace(model_name='RF')
+INFO:root:train results -- accuracy:0.5668, macro_f1:0.3854, micro_f1:0.5668
+INFO:root:val results -- accuracy:0.5455, macro_f1:0.3161, micro_f1:0.5455
+INFO:root:test results -- accuracy:0.5282, macro_f1:0.2788, micro_f1:0.5282

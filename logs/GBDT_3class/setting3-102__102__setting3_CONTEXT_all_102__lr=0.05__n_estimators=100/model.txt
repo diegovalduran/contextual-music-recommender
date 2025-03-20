@@ -1,0 +1,89 @@
+INFO:root:Save model to ../models/GBDT_3class/setting3-102__102__setting3_CONTEXT_all_102__lr=0.05__n_estimators=100/model.pt
+INFO:root:Namespace(model_name='GBDT')
+INFO:root:--------------------------------------------- BEGIN: 2024-11-07 19:47:11 ---------------------------------------------
+INFO:root:
+=============================================
+ Arguments            | Values               
+=============================================
+ class_num            | 3                    
+ context_column_group | CONTEXT_all          
+ datadir              | ../datasets/Psych... 
+ dataname             | setting3-102         
+ load_metadata        | 1                    
+ lr                   | 0.05                 
+ max_depth            | 5                    
+ max_features         |                      
+ max_leaf_nodes       |                      
+ metrics              | accuracy,macro_f1... 
+ min_samples_leaf     | 1                    
+ min_samples_split    | 2                    
+ n_estimators         | 100                  
+ random_seed          | 102                  
+ save_anno            | setting3_CONTEXT_... 
+ save_prediction      | 0                    
+ subsample            | 1.0                  
+=============================================
+INFO:root:train results -- accuracy:0.7622, macro_f1:0.7268, micro_f1:0.7622
+INFO:root:val results -- accuracy:0.4659, macro_f1:0.3499, micro_f1:0.4659
+INFO:root:test results -- accuracy:0.4695, macro_f1:0.2538, micro_f1:0.4695
+INFO:root:Save model to ../models/GBDT_3class/setting3-102__102__setting3_CONTEXT_all_102__lr=0.05__n_estimators=100/model.pt
+INFO:root:Namespace(model_name='GBDT')
+INFO:root:--------------------------------------------- BEGIN: 2024-11-09 23:28:56 ---------------------------------------------
+INFO:root:
+=============================================
+ Arguments            | Values               
+=============================================
+ class_num            | 3                    
+ context_column_group | CONTEXT_all          
+ datadir              | ../datasets/Psych... 
+ dataname             | setting3-102         
+ load_metadata        | 1                    
+ lr                   | 0.05                 
+ max_depth            | 5                    
+ max_features         |                      
+ max_leaf_nodes       |                      
+ metrics              | accuracy,macro_f1... 
+ min_samples_leaf     | 1                    
+ min_samples_split    | 2                    
+ n_estimators         | 100                  
+ random_seed          | 102                  
+ save_anno            | setting3_CONTEXT_... 
+ save_prediction      | 0                    
+ subsample            | 1.0                  
+=============================================
+INFO:root:train results -- accuracy:0.7622, macro_f1:0.7268, micro_f1:0.7622
+INFO:root:val results -- accuracy:0.4659, macro_f1:0.3499, micro_f1:0.4659
+INFO:root:test results -- accuracy:0.4695, macro_f1:0.2538, micro_f1:0.4695
+INFO:root:Save model to ../models/GBDT_3class/setting3-102__102__setting3_CONTEXT_all_102__lr=0.05__n_estimators=100/model.pt
+INFO:root:Namespace(model_name='GBDT')
+INFO:root:--------------------------------------------- BEGIN: 2024-12-07 04:40:48 ---------------------------------------------
+INFO:root:
+=============================================
+ Arguments            | Values               
+=============================================
+ class_num            | 3                    
+ context_column_group | CONTEXT_all          
+ datadir              | ../datasets/Psych... 
+ dataname             | setting3-102         
+ load_metadata        | 1                    
+ lr                   | 0.05                 
+ max_depth            | 5                    
+ max_features         |                      
+ max_leaf_nodes       |                      
+ metrics              | accuracy,macro_f1... 
+ min_samples_leaf     | 1                    
+ min_samples_split    | 2                    
+ n_estimators         | 100                  
+ random_seed          | 102                  
+ save_anno            | setting3_CONTEXT_... 
+ save_prediction      | 0                    
+ subsample            | 1.0                  
+=============================================
+INFO:root:train results -- accuracy:0.7622, macro_f1:0.7268, micro_f1:0.7622
+INFO:root:val results -- accuracy:0.4659, macro_f1:0.3499, micro_f1:0.4659
+INFO:root:test results -- accuracy:0.4695, macro_f1:0.2538, micro_f1:0.4695
+INFO:root:Save model to ../models/GBDT_3class/setting3-102__102__setting3_CONTEXT_all_102__lr=0.05__n_estimators=100/model.pt
+INFO:root:Namespace(model_name='GBDT')
+INFO:root:train results -- accuracy:0.7622, macro_f1:0.7268, micro_f1:0.7622
+INFO:root:val results -- accuracy:0.4659, macro_f1:0.3499, micro_f1:0.4659
+INFO:root:test results -- accuracy:0.4695, macro_f1:0.2538, micro_f1:0.4695

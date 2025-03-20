@@ -1,0 +1,25 @@
+INFO:root:Save model to ../models/SGD_3class/setting2-106__106__setting2_CONTEXT_all_106__loss=hinge__penalty=l2__regularization=0.0001__l1_ratio=0.15/model.pt
+INFO:root:Namespace(model_name='SGD')
+INFO:root:--------------------------------------------- BEGIN: 2024-11-07 20:03:19 ---------------------------------------------
+INFO:root:
+=============================================
+ Arguments            | Values               
+=============================================
+ class_num            | 3                    
+ context_column_group | CONTEXT_all          
+ datadir              | ../datasets/Psych... 
+ dataname             | setting2-106         
+ l1_ratio             | 0.15                 
+ load_metadata        | 1                    
+ loss                 | hinge                
+ max_iter             | 1000                 
+ metrics              | accuracy,macro_f1... 
+ penalty              | l2                   
+ random_seed          | 106                  
+ regularization       | 0.0001               
+ save_anno            | setting2_CONTEXT_... 
+ save_prediction      | 0                    
+=============================================
+INFO:root:train results -- accuracy:0.1792, macro_f1:0.1013, micro_f1:0.1792
+INFO:root:val results -- accuracy:0.1705, macro_f1:0.0971, micro_f1:0.1705
+INFO:root:test results -- accuracy:0.2359, macro_f1:0.1272, micro_f1:0.2359

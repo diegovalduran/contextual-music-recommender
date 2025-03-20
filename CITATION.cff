@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Valdez Duran"
+    given-names: "Diego"
+    email: "diegoval@stanford.edu"
+title: "Emotion-Aware Music Recommendation System"
+version: 1.0.0
+date-released: 2024-01-01
+url: "[Your repository URL]"
+repository-code: "[Your repository URL]"
+license: MIT
+references:
+  - authors:
+      - family-names: "Grigorev"
+        given-names: "Vadim"
+      - family-names: "Li"
+        given-names: "Jiayu"
+      - family-names: "Ma"
+        given-names: "Weizhi"
+      - family-names: "He"
+        given-names: "Zhiyu"
+      - family-names: "Zhang"
+        given-names: "Min"
+      - family-names: "Liu"
+        given-names: "Yiqun"
+      - family-names: "Yan"
+        given-names: "Ming"
+      - family-names: "Zhang"
+        given-names: "Ji"
+    title: "SiTunes: A Situational Music Recommendation Dataset with Physiological and Psychological Signals"
+    type: conference-paper
+    doi: "10.1145/3627508.3638343"
+    year: 2024
+    conference:
+      name: "Conference on Human Information Interaction and Retrieval"
+      location: "Sheffield, United Kingdom"
+    collection-title: "CHIIR '24"
+    publisher:
+      name: "Association for Computing Machinery"
+      address: "New York, NY, USA"
+    url: "https://doi.org/10.1145/3627508.3638343" 

@@ -1,0 +1,315 @@
+INFO:root:Save model to ../models/LR_3class/setting2-110__110__setting2_CONTEXT_obj_110__penalty=l1__solver=liblinear/model.pt
+INFO:root:Namespace(model_name='LR')
+INFO:root:--------------------------------------------- BEGIN: 2024-11-07 18:32:45 ---------------------------------------------
+INFO:root:
+=============================================
+ Arguments            | Values               
+=============================================
+ class_num            | 3                    
+ context_column_group | CONTEXT_obj          
+ datadir              | ../datasets/Psych... 
+ dataname             | setting2-110         
+ load_metadata        | 1                    
+ max_iter             | 500                  
+ metrics              | accuracy,macro_f1... 
+ penalty              | l1                   
+ random_seed          | 110                  
+ regularization       | 10.0                 
+ save_anno            | setting2_CONTEXT_... 
+ save_prediction      | 0                    
+ solver               | liblinear            
+=============================================
+INFO:root:train results -- accuracy:0.5749, macro_f1:0.4314, micro_f1:0.5749
+INFO:root:val results -- accuracy:0.5682, macro_f1:0.4182, micro_f1:0.5682
+INFO:root:test results -- accuracy:0.6051, macro_f1:0.4560, micro_f1:0.6051
+INFO:root:Save model to ../models/LR_3class/setting2-110__110__setting2_CONTEXT_obj_110__penalty=l1__solver=liblinear/model.pt
+INFO:root:Namespace(model_name='LR')
+INFO:root:--------------------------------------------- BEGIN: 2024-11-07 18:38:38 ---------------------------------------------
+INFO:root:
+=============================================
+ Arguments            | Values               
+=============================================
+ class_num            | 3                    
+ context_column_group | CONTEXT_obj          
+ datadir              | ../datasets/Psych... 
+ dataname             | setting2-110         
+ load_metadata        | 1                    
+ max_iter             | 500                  
+ metrics              | accuracy,macro_f1... 
+ penalty              | l1                   
+ random_seed          | 110                  
+ regularization       | 10.0                 
+ save_anno            | setting2_CONTEXT_... 
+ save_prediction      | 0                    
+ solver               | liblinear            
+=============================================
+INFO:root:train results -- accuracy:0.5749, macro_f1:0.4314, micro_f1:0.5749
+INFO:root:val results -- accuracy:0.5682, macro_f1:0.4182, micro_f1:0.5682
+INFO:root:test results -- accuracy:0.6051, macro_f1:0.4560, micro_f1:0.6051
+INFO:root:Save model to ../models/LR_3class/setting2-110__110__setting2_CONTEXT_obj_110__penalty=l1__solver=liblinear/model.pt
+INFO:root:Namespace(model_name='LR')
+INFO:root:--------------------------------------------- BEGIN: 2024-11-07 18:52:31 ---------------------------------------------
+INFO:root:
+=============================================
+ Arguments            | Values               
+=============================================
+ class_num            | 3                    
+ context_column_group | CONTEXT_obj          
+ datadir              | ../datasets/Psych... 
+ dataname             | setting2-110         
+ load_metadata        | 1                    
+ max_iter             | 500                  
+ metrics              | accuracy,macro_f1... 
+ penalty              | l1                   
+ random_seed          | 110                  
+ regularization       | 10.0                 
+ save_anno            | setting2_CONTEXT_... 
+ save_prediction      | 0                    
+ solver               | liblinear            
+=============================================
+INFO:root:train results -- accuracy:0.5717, macro_f1:0.4299, micro_f1:0.5717
+INFO:root:val results -- accuracy:0.5682, macro_f1:0.4182, micro_f1:0.5682
+INFO:root:test results -- accuracy:0.6000, macro_f1:0.4532, micro_f1:0.6000
+INFO:root:Save model to ../models/LR_3class/setting2-110__110__setting2_CONTEXT_obj_110__penalty=l1__solver=liblinear/model.pt
+INFO:root:Namespace(model_name='LR')
+INFO:root:--------------------------------------------- BEGIN: 2024-11-07 19:16:47 ---------------------------------------------
+INFO:root:
+=============================================
+ Arguments            | Values               
+=============================================
+ class_num            | 3                    
+ context_column_group | CONTEXT_obj          
+ datadir              | ../datasets/Psych... 
+ dataname             | setting2-110         
+ load_metadata        | 1                    
+ max_iter             | 500                  
+ metrics              | accuracy,macro_f1... 
+ penalty              | l1                   
+ random_seed          | 110                  
+ regularization       | 10.0                 
+ save_anno            | setting2_CONTEXT_... 
+ save_prediction      | 0                    
+ solver               | liblinear            
+=============================================
+INFO:root:train results -- accuracy:0.5114, macro_f1:0.3415, micro_f1:0.5114
+INFO:root:val results -- accuracy:0.5000, macro_f1:0.3040, micro_f1:0.5000
+INFO:root:test results -- accuracy:0.5333, macro_f1:0.3487, micro_f1:0.5333
+INFO:root:Save model to ../models/LR_3class/setting2-110__110__setting2_CONTEXT_obj_110__penalty=l1__solver=liblinear/model.pt
+INFO:root:Namespace(model_name='LR')
+INFO:root:--------------------------------------------- BEGIN: 2024-11-07 19:27:58 ---------------------------------------------
+INFO:root:
+=============================================
+ Arguments            | Values               
+=============================================
+ class_num            | 3                    
+ context_column_group | CONTEXT_obj          
+ datadir              | ../datasets/Psych... 
+ dataname             | setting2-110         
+ load_metadata        | 1                    
+ max_iter             | 500                  
+ metrics              | accuracy,macro_f1... 
+ penalty              | l1                   
+ random_seed          | 110                  
+ regularization       | 10.0                 
+ save_anno            | setting2_CONTEXT_... 
+ save_prediction      | 0                    
+ solver               | liblinear            
+=============================================
+INFO:root:train results -- accuracy:0.5114, macro_f1:0.3415, micro_f1:0.5114
+INFO:root:val results -- accuracy:0.5000, macro_f1:0.3040, micro_f1:0.5000
+INFO:root:test results -- accuracy:0.5333, macro_f1:0.3487, micro_f1:0.5333
+INFO:root:Save model to ../models/LR_3class/setting2-110__110__setting2_CONTEXT_obj_110__penalty=l1__solver=liblinear/model.pt
+INFO:root:Namespace(model_name='LR')
+INFO:root:--------------------------------------------- BEGIN: 2024-11-09 23:00:01 ---------------------------------------------
+INFO:root:
+=============================================
+ Arguments            | Values               
+=============================================
+ class_num            | 3                    
+ context_column_group | CONTEXT_obj          
+ datadir              | ../datasets/Psych... 
+ dataname             | setting2-110         
+ load_metadata        | 1                    
+ max_iter             | 1000                 
+ metrics              | accuracy,macro_f1... 
+ penalty              | l1                   
+ random_seed          | 110                  
+ regularization       | 10.0                 
+ save_anno            | setting2_CONTEXT_... 
+ save_prediction      | 0                    
+ solver               | liblinear            
+=============================================
+INFO:root:train results -- accuracy:0.5114, macro_f1:0.3415, micro_f1:0.5114
+INFO:root:val results -- accuracy:0.5000, macro_f1:0.3040, micro_f1:0.5000
+INFO:root:test results -- accuracy:0.5333, macro_f1:0.3487, micro_f1:0.5333
+INFO:root:Save model to ../models/LR_3class/setting2-110__110__setting2_CONTEXT_obj_110__penalty=l1__solver=liblinear/model.pt
+INFO:root:Namespace(model_name='LR')
+INFO:root:--------------------------------------------- BEGIN: 2024-11-09 23:15:40 ---------------------------------------------
+INFO:root:
+=============================================
+ Arguments            | Values               
+=============================================
+ class_num            | 3                    
+ context_column_group | CONTEXT_obj          
+ datadir              | ../datasets/Psych... 
+ dataname             | setting2-110         
+ load_metadata        | 1                    
+ max_iter             | 1000                 
+ metrics              | accuracy,macro_f1... 
+ penalty              | l1                   
+ random_seed          | 110                  
+ regularization       | 10.0                 
+ save_anno            | setting2_CONTEXT_... 
+ save_prediction      | 0                    
+ solver               | liblinear            
+=============================================
+INFO:root:Save model to ../models/LR_3class/setting2-110__110__setting2_CONTEXT_obj_110__penalty=l1__solver=liblinear/model.pt
+INFO:root:Namespace(model_name='LR')
+INFO:root:--------------------------------------------- BEGIN: 2024-11-09 23:18:12 ---------------------------------------------
+INFO:root:
+=============================================
+ Arguments            | Values               
+=============================================
+ class_num            | 3                    
+ context_column_group | CONTEXT_obj          
+ datadir              | ../datasets/Psych... 
+ dataname             | setting2-110         
+ load_metadata        | 1                    
+ max_iter             | 1000                 
+ metrics              | accuracy,macro_f1... 
+ penalty              | l1                   
+ random_seed          | 110                  
+ regularization       | 10.0                 
+ save_anno            | setting2_CONTEXT_... 
+ save_prediction      | 0                    
+ solver               | liblinear            
+=============================================
+INFO:root:train results -- accuracy:0.5114, macro_f1:0.3415, micro_f1:0.5114
+INFO:root:val results -- accuracy:0.5000, macro_f1:0.3040, micro_f1:0.5000
+INFO:root:test results -- accuracy:0.5333, macro_f1:0.3487, micro_f1:0.5333
+INFO:root:Save model to ../models/LR_3class/setting2-110__110__setting2_CONTEXT_obj_110__penalty=l1__solver=liblinear/model.pt
+INFO:root:Namespace(model_name='LR')
+INFO:root:--------------------------------------------- BEGIN: 2024-11-09 23:24:40 ---------------------------------------------
+INFO:root:
+=============================================
+ Arguments            | Values               
+=============================================
+ class_num            | 3                    
+ context_column_group | CONTEXT_obj          
+ datadir              | ../datasets/Psych... 
+ dataname             | setting2-110         
+ load_metadata        | 1                    
+ max_iter             | 1000                 
+ metrics              | accuracy,macro_f1... 
+ penalty              | l1                   
+ random_seed          | 110                  
+ regularization       | 10.0                 
+ save_anno            | setting2_CONTEXT_... 
+ save_prediction      | 0                    
+ solver               | liblinear            
+=============================================
+INFO:root:train results -- accuracy:0.5114, macro_f1:0.3415, micro_f1:0.5114
+INFO:root:val results -- accuracy:0.5000, macro_f1:0.3040, micro_f1:0.5000
+INFO:root:test results -- accuracy:0.5333, macro_f1:0.3487, micro_f1:0.5333
+INFO:root:Save model to ../models/LR_3class/setting2-110__110__setting2_CONTEXT_obj_110__penalty=l1__solver=liblinear/model.pt
+INFO:root:Namespace(model_name='LR')
+INFO:root:--------------------------------------------- BEGIN: 2024-12-07 04:03:44 ---------------------------------------------
+INFO:root:
+=============================================
+ Arguments            | Values               
+=============================================
+ class_num            | 3                    
+ context_column_group | CONTEXT_obj          
+ datadir              | ../datasets/Psych... 
+ dataname             | setting2-110         
+ load_metadata        | 1                    
+ max_iter             | 1000                 
+ metrics              | accuracy,macro_f1... 
+ penalty              | l1                   
+ random_seed          | 110                  
+ regularization       | 10.0                 
+ save_anno            | setting2_CONTEXT_... 
+ save_prediction      | 0                    
+ solver               | liblinear            
+=============================================
+INFO:root:train results -- accuracy:0.5114, macro_f1:0.3415, micro_f1:0.5114
+INFO:root:val results -- accuracy:0.5000, macro_f1:0.3040, micro_f1:0.5000
+INFO:root:test results -- accuracy:0.5333, macro_f1:0.3487, micro_f1:0.5333
+INFO:root:Save model to ../models/LR_3class/setting2-110__110__setting2_CONTEXT_obj_110__penalty=l1__solver=liblinear/model.pt
+INFO:root:Namespace(model_name='LR')
+INFO:root:Save model to ../models/LR_3class/setting2-110__110__setting2_CONTEXT_obj_110__penalty=l1__solver=liblinear/model.pt
+INFO:root:Namespace(model_name='LR')
+INFO:root:--------------------------------------------- BEGIN: 2024-12-07 04:25:28 ---------------------------------------------
+INFO:root:
+=============================================
+ Arguments            | Values               
+=============================================
+ class_num            | 3                    
+ context_column_group | CONTEXT_obj          
+ datadir              | ../datasets/Psych... 
+ dataname             | setting2-110         
+ load_metadata        | 1                    
+ max_iter             | 1000                 
+ metrics              | accuracy,macro_f1... 
+ penalty              | l1                   
+ random_seed          | 110                  
+ regularization       | 10.0                 
+ save_anno            | setting2_CONTEXT_... 
+ save_prediction      | 0                    
+ solver               | liblinear            
+=============================================
+INFO:root:train results -- accuracy:0.5114, macro_f1:0.3415, micro_f1:0.5114
+INFO:root:val results -- accuracy:0.5000, macro_f1:0.3040, micro_f1:0.5000
+INFO:root:test results -- accuracy:0.5333, macro_f1:0.3487, micro_f1:0.5333
+INFO:root:Save model to ../models/LR_3class/setting2-110__110__setting2_CONTEXT_obj_110__penalty=l1__solver=liblinear/model.pt
+INFO:root:Namespace(model_name='LR')
+INFO:root:--------------------------------------------- BEGIN: 2024-12-07 05:10:58 ---------------------------------------------
+INFO:root:
+=============================================
+ Arguments            | Values               
+=============================================
+ class_num            | 3                    
+ context_column_group | CONTEXT_obj          
+ datadir              | ../datasets/Psych... 
+ dataname             | setting2-110         
+ load_metadata        | 1                    
+ max_iter             | 1000                 
+ metrics              | accuracy,macro_f1... 
+ penalty              | l1                   
+ random_seed          | 110                  
+ regularization       | 10.0                 
+ save_anno            | setting2_CONTEXT_... 
+ save_prediction      | 0                    
+ solver               | liblinear            
+=============================================
+INFO:root:train results -- accuracy:0.5114, macro_f1:0.3415, micro_f1:0.5114
+INFO:root:val results -- accuracy:0.5000, macro_f1:0.3040, micro_f1:0.5000
+INFO:root:test results -- accuracy:0.5333, macro_f1:0.3487, micro_f1:0.5333
+INFO:root:Save model to ../models/LR_3class/setting2-110__110__setting2_CONTEXT_obj_110__penalty=l1__solver=liblinear/model.pt
+INFO:root:Namespace(model_name='LR')
+INFO:root:--------------------------------------------- BEGIN: 2024-12-07 05:15:01 ---------------------------------------------
+INFO:root:train results -- accuracy:0.5114, macro_f1:0.3415, micro_f1:0.5114
+INFO:root:val results -- accuracy:0.5000, macro_f1:0.3040, micro_f1:0.5000
+INFO:root:test results -- accuracy:0.5333, macro_f1:0.3487, micro_f1:0.5333
+INFO:root:Save model to ../models/LR_3class/setting2-110__110__setting2_CONTEXT_obj_110__penalty=l1__solver=liblinear/model.pt
+INFO:root:Namespace(model_name='LR')
+INFO:root:Save model to ../models/LR_3class/setting2-110__110__setting2_CONTEXT_obj_110__penalty=l1__solver=liblinear/model.pt
+INFO:root:Namespace(model_name='LR')
+INFO:root:train results -- accuracy:0.5114, macro_f1:0.3415, micro_f1:0.5114
+INFO:root:val results -- accuracy:0.5000, macro_f1:0.3040, micro_f1:0.5000
+INFO:root:test results -- accuracy:0.5333, macro_f1:0.3487, micro_f1:0.5333
+INFO:root:Save model to ../models/LR_3class/setting2-110__110__setting2_CONTEXT_obj_110__penalty=l1__solver=liblinear/model.pt
+INFO:root:Namespace(model_name='LR')
+INFO:root:train results -- accuracy:0.5114, macro_f1:0.3415, micro_f1:0.5114
+INFO:root:val results -- accuracy:0.5000, macro_f1:0.3040, micro_f1:0.5000
+INFO:root:test results -- accuracy:0.5333, macro_f1:0.3487, micro_f1:0.5333
+INFO:root:Save model to ../models/LR_3class/setting2-110__110__setting2_CONTEXT_obj_110__penalty=l1__solver=liblinear/model.pt
+INFO:root:Namespace(model_name='LR')
+INFO:root:train results -- accuracy:0.5114, macro_f1:0.3415, micro_f1:0.5114
+INFO:root:val results -- accuracy:0.5000, macro_f1:0.3040, micro_f1:0.5000
+INFO:root:test results -- accuracy:0.5333, macro_f1:0.3487, micro_f1:0.5333
+INFO:root:Save model to ../models/LR_3class/setting2-110__110__setting2_CONTEXT_obj_110__penalty=l1__solver=liblinear/model.pt
+INFO:root:Namespace(model_name='LR')
+INFO:root:train results -- accuracy:0.5114, macro_f1:0.3415, micro_f1:0.5114
+INFO:root:val results -- accuracy:0.5000, macro_f1:0.3040, micro_f1:0.5000
+INFO:root:test results -- accuracy:0.5333, macro_f1:0.3487, micro_f1:0.5333

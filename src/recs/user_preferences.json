@@ -1,0 +1,5220 @@
+{
+  "1": {
+    "favorite_songs": [
+      {
+        "item_id": 132,
+        "title": "Somebody To Love",
+        "artist": "Queen",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.5,
+          "emotional_sophistication": 0.8,
+          "thematic_elements": {
+            "love": 0.9,
+            "life": 0.7,
+            "social": 0.2
+          },
+          "temporal_focus": {
+            "past": 0.6,
+            "present": 0.8,
+            "future": 0.4
+          }
+        }
+      },
+      {
+        "item_id": 707,
+        "title": "The Good Left Undone",
+        "artist": "Rise Against",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.8,
+            "life": 0.7,
+            "social": 0.3
+          },
+          "temporal_focus": {
+            "past": 0.7,
+            "present": 0.8,
+            "future": 0.4
+          }
+        }
+      },
+      {
+        "item_id": 17,
+        "title": "Can't Let Go",
+        "artist": "Lucinda Williams",
+        "rating": 5,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.9,
+            "life": 0.8,
+            "social": 0.6
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.8,
+            "future": 0.0
+          }
+        }
+      },
+      {
+        "item_id": 826,
+        "title": "Lazy Jane",
+        "artist": "STEVE CAMP",
+        "rating": 5,
+        "lyrical_features": {
+          "narrative_complexity": 0.5,
+          "emotional_sophistication": 0.8,
+          "thematic_elements": {
+            "love": 0.0,
+            "life": 0.0,
+            "social": 0.0
+          },
+          "temporal_focus": {
+            "past": 0.5,
+            "present": 0.5,
+            "future": 0.0
+          }
+        }
+      },
+      {
+        "item_id": 516,
+        "title": "Fear And Love",
+        "artist": "Morcheeba",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.9,
+            "life": 0.8,
+            "social": 0.4
+          },
+          "temporal_focus": {
+            "past": 0.4,
+            "present": 0.8,
+            "future": 0.2
+          }
+        }
+      },
+      {
+        "item_id": 597,
+        "title": "Swim",
+        "artist": "Surfer Blood",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.5,
+          "emotional_sophistication": 0.8,
+          "thematic_elements": {
+            "love": 0.0,
+            "life": 0.0,
+            "social": 0.0
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.2,
+            "future": 0.0
+          }
+        }
+      },
+      {
+        "item_id": 395,
+        "title": "I Should Be...",
+        "artist": "Dru Hill",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.9,
+            "life": 0.6,
+            "social": 0.4
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.9,
+            "future": 0.6
+          }
+        }
+      },
+      {
+        "item_id": 793,
+        "title": "Bala Bay Inn",
+        "artist": "Valley of the Giants",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.5,
+          "emotional_sophistication": 0.8,
+          "thematic_elements": {
+            "love": 0.0,
+            "life": 0.0,
+            "social": 0.0
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.0,
+            "future": 0.2
+          }
+        }
+      },
+      {
+        "item_id": 120,
+        "title": "You Can't Roller Skate In A Buffalo Herd",
+        "artist": "Roger Miller",
+        "rating": 5
+      }
+    ],
+    "lyrical_preferences": {
+      "narrative_complexity": {
+        "mean": 0.65,
+        "std": 0.15000000000000002
+      },
+      "emotional_sophistication": {
+        "mean": 0.8500000000000001,
+        "std": 0.04999999999999999
+      },
+      "thematic_elements_love": {
+        "mean": 0.55,
+        "std": 0.4272001872658766
+      },
+      "thematic_elements_life": {
+        "mean": 0.45,
+        "std": 0.3535533905932738
+      },
+      "thematic_elements_social": {
+        "mean": 0.23750000000000002,
+        "std": 0.2117634293262177
+      },
+      "temporal_focus_past": {
+        "mean": 0.675,
+        "std": 0.14790199457749043
+      },
+      "temporal_focus_present": {
+        "mean": 0.6000000000000001,
+        "std": 0.3122498999199199
+      },
+      "temporal_focus_future": {
+        "mean": 0.225,
+        "std": 0.21065374432940898
+      }
+    },
+    "cluster": 3
+  },
+  "2": {
+    "favorite_songs": [
+      {
+        "item_id": 120,
+        "title": "You Can't Roller Skate In A Buffalo Herd",
+        "artist": "Roger Miller",
+        "rating": 4
+      },
+      {
+        "item_id": 826,
+        "title": "Lazy Jane",
+        "artist": "STEVE CAMP",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.5,
+          "emotional_sophistication": 0.8,
+          "thematic_elements": {
+            "love": 0.0,
+            "life": 0.0,
+            "social": 0.0
+          },
+          "temporal_focus": {
+            "past": 0.5,
+            "present": 0.5,
+            "future": 0.0
+          }
+        }
+      },
+      {
+        "item_id": 132,
+        "title": "Somebody To Love",
+        "artist": "Queen",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.5,
+          "emotional_sophistication": 0.8,
+          "thematic_elements": {
+            "love": 0.9,
+            "life": 0.7,
+            "social": 0.2
+          },
+          "temporal_focus": {
+            "past": 0.6,
+            "present": 0.8,
+            "future": 0.4
+          }
+        }
+      },
+      {
+        "item_id": 468,
+        "title": "Livin' On A Prayer",
+        "artist": "Bon Jovi",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.9,
+            "life": 0.8,
+            "social": 0.6
+          },
+          "temporal_focus": {
+            "past": 0.9,
+            "present": 0.8,
+            "future": 0.7
+          }
+        }
+      },
+      {
+        "item_id": 5,
+        "title": "You Give Love A Bad Name",
+        "artist": "Bon Jovi",
+        "rating": 5,
+        "lyrical_features": {
+          "narrative_complexity": 0.0,
+          "emotional_sophistication": 0.0,
+          "thematic_elements": {
+            "love": 1.0,
+            "life": 0.0,
+            "social": 0.0
+          },
+          "temporal_focus": {
+            "past": 1.0,
+            "present": 1.0,
+            "future": 0.0
+          }
+        }
+      },
+      {
+        "item_id": 17,
+        "title": "Can't Let Go",
+        "artist": "Lucinda Williams",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.9,
+            "life": 0.8,
+            "social": 0.6
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.8,
+            "future": 0.0
+          }
+        }
+      },
+      {
+        "item_id": 946,
+        "title": "Ride The Lightning",
+        "artist": "Metallica",
+        "rating": 5,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.0,
+            "life": 0.8,
+            "social": 0.0
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.8,
+            "future": 0.2
+          }
+        }
+      },
+      {
+        "item_id": 676,
+        "title": "My Happy Ending",
+        "artist": "Avril Lavigne",
+        "rating": 5,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.9,
+            "life": 0.8,
+            "social": 0.4
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.8,
+            "future": 0.0
+          }
+        }
+      },
+      {
+        "item_id": 524,
+        "title": "Louder Than Thunder",
+        "artist": "The Devil Wears Prada",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.0,
+          "emotional_sophistication": 0.0,
+          "thematic_elements": {
+            "love": 0.0,
+            "life": 0.0,
+            "social": 0.0
+          },
+          "temporal_focus": {
+            "past": 0.0,
+            "present": 1.0,
+            "future": 0.0
+          }
+        }
+      },
+      {
+        "item_id": 793,
+        "title": "Bala Bay Inn",
+        "artist": "Valley of the Giants",
+        "rating": 5,
+        "lyrical_features": {
+          "narrative_complexity": 0.5,
+          "emotional_sophistication": 0.8,
+          "thematic_elements": {
+            "love": 0.0,
+            "life": 0.0,
+            "social": 0.0
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.0,
+            "future": 0.2
+          }
+        }
+      }
+    ],
+    "lyrical_preferences": {
+      "narrative_complexity": {
+        "mean": 0.5222222222222223,
+        "std": 0.30832082056692467
+      },
+      "emotional_sophistication": {
+        "mean": 0.6666666666666666,
+        "std": 0.3590109871423003
+      },
+      "thematic_elements_love": {
+        "mean": 0.5111111111111111,
+        "std": 0.4581228472908512
+      },
+      "thematic_elements_life": {
+        "mean": 0.43333333333333335,
+        "std": 0.38873012632302006
+      },
+      "thematic_elements_social": {
+        "mean": 0.2,
+        "std": 0.24944382578492943
+      },
+      "temporal_focus_past": {
+        "mean": 0.6888888888888889,
+        "std": 0.28065179867366863
+      },
+      "temporal_focus_present": {
+        "mean": 0.7222222222222222,
+        "std": 0.2897423291201177
+      },
+      "temporal_focus_future": {
+        "mean": 0.16666666666666666,
+        "std": 0.23094010767585033
+      }
+    },
+    "cluster": 2
+  },
+  "3": {
+    "favorite_songs": [
+      {
+        "item_id": 132,
+        "title": "Somebody To Love",
+        "artist": "Queen",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.5,
+          "emotional_sophistication": 0.8,
+          "thematic_elements": {
+            "love": 0.9,
+            "life": 0.7,
+            "social": 0.2
+          },
+          "temporal_focus": {
+            "past": 0.6,
+            "present": 0.8,
+            "future": 0.4
+          }
+        }
+      },
+      {
+        "item_id": 17,
+        "title": "Can't Let Go",
+        "artist": "Lucinda Williams",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.9,
+            "life": 0.8,
+            "social": 0.6
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.8,
+            "future": 0.0
+          }
+        }
+      },
+      {
+        "item_id": 453,
+        "title": NaN,
+        "artist": NaN,
+        "rating": 4
+      },
+      {
+        "item_id": 823,
+        "title": "Hello",
+        "artist": "Evanescence",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.2,
+            "life": 0.8,
+            "social": 0.2
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.6,
+            "future": 0.2
+          }
+        }
+      },
+      {
+        "item_id": 364,
+        "title": "Elegant Disasters",
+        "artist": "Electric President",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.0,
+            "life": 0.0,
+            "social": 0.2
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.8,
+            "future": 0.4
+          }
+        }
+      }
+    ],
+    "lyrical_preferences": {
+      "narrative_complexity": {
+        "mean": 0.7250000000000001,
+        "std": 0.1299038105676658
+      },
+      "emotional_sophistication": {
+        "mean": 0.875,
+        "std": 0.043301270189221926
+      },
+      "thematic_elements_love": {
+        "mean": 0.5,
+        "std": 0.406201920231798
+      },
+      "thematic_elements_life": {
+        "mean": 0.575,
+        "std": 0.3344772040064913
+      },
+      "thematic_elements_social": {
+        "mean": 0.3,
+        "std": 0.1732050807568877
+      },
+      "temporal_focus_past": {
+        "mean": 0.75,
+        "std": 0.08660254037844389
+      },
+      "temporal_focus_present": {
+        "mean": 0.75,
+        "std": 0.08660254037844389
+      },
+      "temporal_focus_future": {
+        "mean": 0.25,
+        "std": 0.16583123951777
+      }
+    },
+    "cluster": 3
+  },
+  "4": {
+    "favorite_songs": [
+      {
+        "item_id": 132,
+        "title": "Somebody To Love",
+        "artist": "Queen",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.5,
+          "emotional_sophistication": 0.8,
+          "thematic_elements": {
+            "love": 0.9,
+            "life": 0.7,
+            "social": 0.2
+          },
+          "temporal_focus": {
+            "past": 0.6,
+            "present": 0.8,
+            "future": 0.4
+          }
+        }
+      },
+      {
+        "item_id": 863,
+        "title": "Life In Technicolor Ii",
+        "artist": "Coldplay",
+        "rating": 5,
+        "lyrical_features": {
+          "narrative_complexity": 0.0,
+          "emotional_sophistication": 0.0,
+          "thematic_elements": {
+            "love": 1.0,
+            "life": 0.0,
+            "social": 0.0
+          },
+          "temporal_focus": {
+            "past": 0.0,
+            "present": 1.0,
+            "future": 1.0
+          }
+        }
+      },
+      {
+        "item_id": 826,
+        "title": "Lazy Jane",
+        "artist": "STEVE CAMP",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.5,
+          "emotional_sophistication": 0.8,
+          "thematic_elements": {
+            "love": 0.0,
+            "life": 0.0,
+            "social": 0.0
+          },
+          "temporal_focus": {
+            "past": 0.5,
+            "present": 0.5,
+            "future": 0.0
+          }
+        }
+      },
+      {
+        "item_id": 524,
+        "title": "Louder Than Thunder",
+        "artist": "The Devil Wears Prada",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.0,
+          "emotional_sophistication": 0.0,
+          "thematic_elements": {
+            "love": 0.0,
+            "life": 0.0,
+            "social": 0.0
+          },
+          "temporal_focus": {
+            "past": 0.0,
+            "present": 1.0,
+            "future": 0.0
+          }
+        }
+      }
+    ],
+    "lyrical_preferences": {
+      "narrative_complexity": {
+        "mean": 0.25,
+        "std": 0.25
+      },
+      "emotional_sophistication": {
+        "mean": 0.4,
+        "std": 0.4
+      },
+      "thematic_elements_love": {
+        "mean": 0.475,
+        "std": 0.4763139720814413
+      },
+      "thematic_elements_life": {
+        "mean": 0.175,
+        "std": 0.3031088913245535
+      },
+      "thematic_elements_social": {
+        "mean": 0.05,
+        "std": 0.08660254037844388
+      },
+      "temporal_focus_past": {
+        "mean": 0.275,
+        "std": 0.2772634126602354
+      },
+      "temporal_focus_present": {
+        "mean": 0.825,
+        "std": 0.20463381929681124
+      },
+      "temporal_focus_future": {
+        "mean": 0.35,
+        "std": 0.4092676385936225
+      }
+    },
+    "cluster": 0
+  },
+  "5": {
+    "favorite_songs": [
+      {
+        "item_id": 605,
+        "title": "Haunted",
+        "artist": "Evanescence",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.5,
+          "emotional_sophistication": 0.8,
+          "thematic_elements": {
+            "love": 0.9,
+            "life": 0.4,
+            "social": 0.2
+          },
+          "temporal_focus": {
+            "past": 0.6,
+            "present": 0.8,
+            "future": 0.0
+          }
+        }
+      },
+      {
+        "item_id": 524,
+        "title": "Louder Than Thunder",
+        "artist": "The Devil Wears Prada",
+        "rating": 5,
+        "lyrical_features": {
+          "narrative_complexity": 0.0,
+          "emotional_sophistication": 0.0,
+          "thematic_elements": {
+            "love": 0.0,
+            "life": 0.0,
+            "social": 0.0
+          },
+          "temporal_focus": {
+            "past": 0.0,
+            "present": 1.0,
+            "future": 0.0
+          }
+        }
+      },
+      {
+        "item_id": 995,
+        "title": "Welcome To Lunar Industries",
+        "artist": "Clint Mansell",
+        "rating": 4
+      },
+      {
+        "item_id": 461,
+        "title": "Watercolour",
+        "artist": "Pendulum",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.5,
+          "emotional_sophistication": 0.8,
+          "thematic_elements": {
+            "love": 0.0,
+            "life": 0.5,
+            "social": 0.2
+          },
+          "temporal_focus": {
+            "past": 0.5,
+            "present": 0.8,
+            "future": 0.2
+          }
+        }
+      },
+      {
+        "item_id": 823,
+        "title": "Hello",
+        "artist": "Evanescence",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.2,
+            "life": 0.8,
+            "social": 0.2
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.6,
+            "future": 0.2
+          }
+        }
+      }
+    ],
+    "lyrical_preferences": {
+      "narrative_complexity": {
+        "mean": 0.45,
+        "std": 0.2872281323269015
+      },
+      "emotional_sophistication": {
+        "mean": 0.625,
+        "std": 0.36314597615834876
+      },
+      "thematic_elements_love": {
+        "mean": 0.275,
+        "std": 0.36996621467371854
+      },
+      "thematic_elements_life": {
+        "mean": 0.42500000000000004,
+        "std": 0.2861380785564899
+      },
+      "thematic_elements_social": {
+        "mean": 0.15000000000000002,
+        "std": 0.08660254037844387
+      },
+      "temporal_focus_past": {
+        "mean": 0.47500000000000003,
+        "std": 0.2947456530637899
+      },
+      "temporal_focus_present": {
+        "mean": 0.8,
+        "std": 0.14142135623730953
+      },
+      "temporal_focus_future": {
+        "mean": 0.1,
+        "std": 0.1
+      }
+    },
+    "cluster": 3
+  },
+  "6": {
+    "favorite_songs": [
+      {
+        "item_id": 132,
+        "title": "Somebody To Love",
+        "artist": "Queen",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.5,
+          "emotional_sophistication": 0.8,
+          "thematic_elements": {
+            "love": 0.9,
+            "life": 0.7,
+            "social": 0.2
+          },
+          "temporal_focus": {
+            "past": 0.6,
+            "present": 0.8,
+            "future": 0.4
+          }
+        }
+      },
+      {
+        "item_id": 707,
+        "title": "The Good Left Undone",
+        "artist": "Rise Against",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.8,
+            "life": 0.7,
+            "social": 0.3
+          },
+          "temporal_focus": {
+            "past": 0.7,
+            "present": 0.8,
+            "future": 0.4
+          }
+        }
+      },
+      {
+        "item_id": 863,
+        "title": "Life In Technicolor Ii",
+        "artist": "Coldplay",
+        "rating": 5,
+        "lyrical_features": {
+          "narrative_complexity": 0.0,
+          "emotional_sophistication": 0.0,
+          "thematic_elements": {
+            "love": 1.0,
+            "life": 0.0,
+            "social": 0.0
+          },
+          "temporal_focus": {
+            "past": 0.0,
+            "present": 1.0,
+            "future": 1.0
+          }
+        }
+      },
+      {
+        "item_id": 826,
+        "title": "Lazy Jane",
+        "artist": "STEVE CAMP",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.5,
+          "emotional_sophistication": 0.8,
+          "thematic_elements": {
+            "love": 0.0,
+            "life": 0.0,
+            "social": 0.0
+          },
+          "temporal_focus": {
+            "past": 0.5,
+            "present": 0.5,
+            "future": 0.0
+          }
+        }
+      },
+      {
+        "item_id": 676,
+        "title": "My Happy Ending",
+        "artist": "Avril Lavigne",
+        "rating": 5,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.9,
+            "life": 0.8,
+            "social": 0.4
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.8,
+            "future": 0.0
+          }
+        }
+      },
+      {
+        "item_id": 468,
+        "title": "Livin' On A Prayer",
+        "artist": "Bon Jovi",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.9,
+            "life": 0.8,
+            "social": 0.6
+          },
+          "temporal_focus": {
+            "past": 0.9,
+            "present": 0.8,
+            "future": 0.7
+          }
+        }
+      },
+      {
+        "item_id": 395,
+        "title": "I Should Be...",
+        "artist": "Dru Hill",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.9,
+            "life": 0.6,
+            "social": 0.4
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.9,
+            "future": 0.6
+          }
+        }
+      },
+      {
+        "item_id": 793,
+        "title": "Bala Bay Inn",
+        "artist": "Valley of the Giants",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.5,
+          "emotional_sophistication": 0.8,
+          "thematic_elements": {
+            "love": 0.0,
+            "life": 0.0,
+            "social": 0.0
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.0,
+            "future": 0.2
+          }
+        }
+      },
+      {
+        "item_id": 946,
+        "title": "Ride The Lightning",
+        "artist": "Metallica",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.0,
+            "life": 0.8,
+            "social": 0.0
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.8,
+            "future": 0.2
+          }
+        }
+      },
+      {
+        "item_id": 120,
+        "title": "You Can't Roller Skate In A Buffalo Herd",
+        "artist": "Roger Miller",
+        "rating": 4
+      }
+    ],
+    "lyrical_preferences": {
+      "narrative_complexity": {
+        "mean": 0.6111111111111112,
+        "std": 0.25579698740491863
+      },
+      "emotional_sophistication": {
+        "mean": 0.7666666666666667,
+        "std": 0.2748737083745107
+      },
+      "thematic_elements_love": {
+        "mean": 0.6000000000000001,
+        "std": 0.4268749491621899
+      },
+      "thematic_elements_life": {
+        "mean": 0.48888888888888893,
+        "std": 0.35101264442069585
+      },
+      "thematic_elements_social": {
+        "mean": 0.2111111111111111,
+        "std": 0.21314806770278752
+      },
+      "temporal_focus_past": {
+        "mean": 0.6555555555555554,
+        "std": 0.2586765939293959
+      },
+      "temporal_focus_present": {
+        "mean": 0.711111111111111,
+        "std": 0.2806517986736687
+      },
+      "temporal_focus_future": {
+        "mean": 0.3888888888888889,
+        "std": 0.3142696805273545
+      }
+    },
+    "cluster": 2
+  },
+  "7": {
+    "favorite_songs": [
+      {
+        "item_id": 132,
+        "title": "Somebody To Love",
+        "artist": "Queen",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.5,
+          "emotional_sophistication": 0.8,
+          "thematic_elements": {
+            "love": 0.9,
+            "life": 0.7,
+            "social": 0.2
+          },
+          "temporal_focus": {
+            "past": 0.6,
+            "present": 0.8,
+            "future": 0.4
+          }
+        }
+      },
+      {
+        "item_id": 707,
+        "title": "The Good Left Undone",
+        "artist": "Rise Against",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.8,
+            "life": 0.7,
+            "social": 0.3
+          },
+          "temporal_focus": {
+            "past": 0.7,
+            "present": 0.8,
+            "future": 0.4
+          }
+        }
+      },
+      {
+        "item_id": 17,
+        "title": "Can't Let Go",
+        "artist": "Lucinda Williams",
+        "rating": 5,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.9,
+            "life": 0.8,
+            "social": 0.6
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.8,
+            "future": 0.0
+          }
+        }
+      },
+      {
+        "item_id": 863,
+        "title": "Life In Technicolor Ii",
+        "artist": "Coldplay",
+        "rating": 5,
+        "lyrical_features": {
+          "narrative_complexity": 0.0,
+          "emotional_sophistication": 0.0,
+          "thematic_elements": {
+            "love": 1.0,
+            "life": 0.0,
+            "social": 0.0
+          },
+          "temporal_focus": {
+            "past": 0.0,
+            "present": 1.0,
+            "future": 1.0
+          }
+        }
+      },
+      {
+        "item_id": 524,
+        "title": "Louder Than Thunder",
+        "artist": "The Devil Wears Prada",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.0,
+          "emotional_sophistication": 0.0,
+          "thematic_elements": {
+            "love": 0.0,
+            "life": 0.0,
+            "social": 0.0
+          },
+          "temporal_focus": {
+            "past": 0.0,
+            "present": 1.0,
+            "future": 0.0
+          }
+        }
+      },
+      {
+        "item_id": 676,
+        "title": "My Happy Ending",
+        "artist": "Avril Lavigne",
+        "rating": 5,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.9,
+            "life": 0.8,
+            "social": 0.4
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.8,
+            "future": 0.0
+          }
+        }
+      },
+      {
+        "item_id": 5,
+        "title": "You Give Love A Bad Name",
+        "artist": "Bon Jovi",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.0,
+          "emotional_sophistication": 0.0,
+          "thematic_elements": {
+            "love": 1.0,
+            "life": 0.0,
+            "social": 0.0
+          },
+          "temporal_focus": {
+            "past": 1.0,
+            "present": 1.0,
+            "future": 0.0
+          }
+        }
+      },
+      {
+        "item_id": 793,
+        "title": "Bala Bay Inn",
+        "artist": "Valley of the Giants",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.5,
+          "emotional_sophistication": 0.8,
+          "thematic_elements": {
+            "love": 0.0,
+            "life": 0.0,
+            "social": 0.0
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.0,
+            "future": 0.2
+          }
+        }
+      },
+      {
+        "item_id": 120,
+        "title": "You Can't Roller Skate In A Buffalo Herd",
+        "artist": "Roger Miller",
+        "rating": 5
+      }
+    ],
+    "lyrical_preferences": {
+      "narrative_complexity": {
+        "mean": 0.42500000000000004,
+        "std": 0.3491060010942236
+      },
+      "emotional_sophistication": {
+        "mean": 0.5375000000000001,
+        "std": 0.4181432170919433
+      },
+      "thematic_elements_love": {
+        "mean": 0.6875,
+        "std": 0.4013648589500581
+      },
+      "thematic_elements_life": {
+        "mean": 0.375,
+        "std": 0.3766629793329841
+      },
+      "thematic_elements_social": {
+        "mean": 0.1875,
+        "std": 0.21469455046647085
+      },
+      "temporal_focus_past": {
+        "mean": 0.5874999999999999,
+        "std": 0.3550968177835448
+      },
+      "temporal_focus_present": {
+        "mean": 0.775,
+        "std": 0.3072051431861127
+      },
+      "temporal_focus_future": {
+        "mean": 0.25,
+        "std": 0.32787192621510003
+      }
+    },
+    "cluster": 2
+  },
+  "8": {
+    "favorite_songs": [
+      {
+        "item_id": 707,
+        "title": "The Good Left Undone",
+        "artist": "Rise Against",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.8,
+            "life": 0.7,
+            "social": 0.3
+          },
+          "temporal_focus": {
+            "past": 0.7,
+            "present": 0.8,
+            "future": 0.4
+          }
+        }
+      },
+      {
+        "item_id": 863,
+        "title": "Life In Technicolor Ii",
+        "artist": "Coldplay",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.0,
+          "emotional_sophistication": 0.0,
+          "thematic_elements": {
+            "love": 1.0,
+            "life": 0.0,
+            "social": 0.0
+          },
+          "temporal_focus": {
+            "past": 0.0,
+            "present": 1.0,
+            "future": 1.0
+          }
+        }
+      },
+      {
+        "item_id": 676,
+        "title": "My Happy Ending",
+        "artist": "Avril Lavigne",
+        "rating": 5,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.9,
+            "life": 0.8,
+            "social": 0.4
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.8,
+            "future": 0.0
+          }
+        }
+      },
+      {
+        "item_id": 597,
+        "title": "Swim",
+        "artist": "Surfer Blood",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.5,
+          "emotional_sophistication": 0.8,
+          "thematic_elements": {
+            "love": 0.0,
+            "life": 0.0,
+            "social": 0.0
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.2,
+            "future": 0.0
+          }
+        }
+      },
+      {
+        "item_id": 395,
+        "title": "I Should Be...",
+        "artist": "Dru Hill",
+        "rating": 5,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.9,
+            "life": 0.6,
+            "social": 0.4
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.9,
+            "future": 0.6
+          }
+        }
+      },
+      {
+        "item_id": 120,
+        "title": "You Can't Roller Skate In A Buffalo Herd",
+        "artist": "Roger Miller",
+        "rating": 5
+      }
+    ],
+    "lyrical_preferences": {
+      "narrative_complexity": {
+        "mean": 0.5800000000000001,
+        "std": 0.3124099870362662
+      },
+      "emotional_sophistication": {
+        "mean": 0.7,
+        "std": 0.35213633723318016
+      },
+      "thematic_elements_love": {
+        "mean": 0.72,
+        "std": 0.3655133376499413
+      },
+      "thematic_elements_life": {
+        "mean": 0.42000000000000004,
+        "std": 0.34871191548325386
+      },
+      "thematic_elements_social": {
+        "mean": 0.22000000000000003,
+        "std": 0.1833030277982336
+      },
+      "temporal_focus_past": {
+        "mean": 0.6199999999999999,
+        "std": 0.31240998703626616
+      },
+      "temporal_focus_present": {
+        "mean": 0.74,
+        "std": 0.28
+      },
+      "temporal_focus_future": {
+        "mean": 0.4,
+        "std": 0.3794733192202055
+      }
+    },
+    "cluster": 0
+  },
+  "9": {
+    "favorite_songs": [
+      {
+        "item_id": 132,
+        "title": "Somebody To Love",
+        "artist": "Queen",
+        "rating": 5,
+        "lyrical_features": {
+          "narrative_complexity": 0.5,
+          "emotional_sophistication": 0.8,
+          "thematic_elements": {
+            "love": 0.9,
+            "life": 0.7,
+            "social": 0.2
+          },
+          "temporal_focus": {
+            "past": 0.6,
+            "present": 0.8,
+            "future": 0.4
+          }
+        }
+      },
+      {
+        "item_id": 863,
+        "title": "Life In Technicolor Ii",
+        "artist": "Coldplay",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.0,
+          "emotional_sophistication": 0.0,
+          "thematic_elements": {
+            "love": 1.0,
+            "life": 0.0,
+            "social": 0.0
+          },
+          "temporal_focus": {
+            "past": 0.0,
+            "present": 1.0,
+            "future": 1.0
+          }
+        }
+      },
+      {
+        "item_id": 826,
+        "title": "Lazy Jane",
+        "artist": "STEVE CAMP",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.5,
+          "emotional_sophistication": 0.8,
+          "thematic_elements": {
+            "love": 0.0,
+            "life": 0.0,
+            "social": 0.0
+          },
+          "temporal_focus": {
+            "past": 0.5,
+            "present": 0.5,
+            "future": 0.0
+          }
+        }
+      },
+      {
+        "item_id": 524,
+        "title": "Louder Than Thunder",
+        "artist": "The Devil Wears Prada",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.0,
+          "emotional_sophistication": 0.0,
+          "thematic_elements": {
+            "love": 0.0,
+            "life": 0.0,
+            "social": 0.0
+          },
+          "temporal_focus": {
+            "past": 0.0,
+            "present": 1.0,
+            "future": 0.0
+          }
+        }
+      },
+      {
+        "item_id": 676,
+        "title": "My Happy Ending",
+        "artist": "Avril Lavigne",
+        "rating": 5,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.9,
+            "life": 0.8,
+            "social": 0.4
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.8,
+            "future": 0.0
+          }
+        }
+      },
+      {
+        "item_id": 364,
+        "title": "Elegant Disasters",
+        "artist": "Electric President",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.0,
+            "life": 0.0,
+            "social": 0.2
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.8,
+            "future": 0.4
+          }
+        }
+      }
+    ],
+    "lyrical_preferences": {
+      "narrative_complexity": {
+        "mean": 0.43333333333333335,
+        "std": 0.32998316455372223
+      },
+      "emotional_sophistication": {
+        "mean": 0.5666666666666667,
+        "std": 0.4027681991198191
+      },
+      "thematic_elements_love": {
+        "mean": 0.4666666666666666,
+        "std": 0.46785562825394
+      },
+      "thematic_elements_life": {
+        "mean": 0.25,
+        "std": 0.35472994422987936
+      },
+      "thematic_elements_social": {
+        "mean": 0.13333333333333333,
+        "std": 0.14907119849998599
+      },
+      "temporal_focus_past": {
+        "mean": 0.45,
+        "std": 0.3354101966249685
+      },
+      "temporal_focus_present": {
+        "mean": 0.8166666666666665,
+        "std": 0.1674979270186815
+      },
+      "temporal_focus_future": {
+        "mean": 0.3,
+        "std": 0.3605551275463989
+      }
+    },
+    "cluster": 0
+  },
+  "10": {
+    "favorite_songs": [
+      {
+        "item_id": 707,
+        "title": "The Good Left Undone",
+        "artist": "Rise Against",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.8,
+            "life": 0.7,
+            "social": 0.3
+          },
+          "temporal_focus": {
+            "past": 0.7,
+            "present": 0.8,
+            "future": 0.4
+          }
+        }
+      },
+      {
+        "item_id": 17,
+        "title": "Can't Let Go",
+        "artist": "Lucinda Williams",
+        "rating": 5,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.9,
+            "life": 0.8,
+            "social": 0.6
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.8,
+            "future": 0.0
+          }
+        }
+      },
+      {
+        "item_id": 826,
+        "title": "Lazy Jane",
+        "artist": "STEVE CAMP",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.5,
+          "emotional_sophistication": 0.8,
+          "thematic_elements": {
+            "love": 0.0,
+            "life": 0.0,
+            "social": 0.0
+          },
+          "temporal_focus": {
+            "past": 0.5,
+            "present": 0.5,
+            "future": 0.0
+          }
+        }
+      },
+      {
+        "item_id": 676,
+        "title": "My Happy Ending",
+        "artist": "Avril Lavigne",
+        "rating": 5,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.9,
+            "life": 0.8,
+            "social": 0.4
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.8,
+            "future": 0.0
+          }
+        }
+      },
+      {
+        "item_id": 5,
+        "title": "You Give Love A Bad Name",
+        "artist": "Bon Jovi",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.0,
+          "emotional_sophistication": 0.0,
+          "thematic_elements": {
+            "love": 1.0,
+            "life": 0.0,
+            "social": 0.0
+          },
+          "temporal_focus": {
+            "past": 1.0,
+            "present": 1.0,
+            "future": 0.0
+          }
+        }
+      },
+      {
+        "item_id": 468,
+        "title": "Livin' On A Prayer",
+        "artist": "Bon Jovi",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.9,
+            "life": 0.8,
+            "social": 0.6
+          },
+          "temporal_focus": {
+            "past": 0.9,
+            "present": 0.8,
+            "future": 0.7
+          }
+        }
+      },
+      {
+        "item_id": 740,
+        "title": NaN,
+        "artist": NaN,
+        "rating": 4
+      },
+      {
+        "item_id": 364,
+        "title": "Elegant Disasters",
+        "artist": "Electric President",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.0,
+            "life": 0.0,
+            "social": 0.2
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.8,
+            "future": 0.4
+          }
+        }
+      },
+      {
+        "item_id": 120,
+        "title": "You Can't Roller Skate In A Buffalo Herd",
+        "artist": "Roger Miller",
+        "rating": 5
+      }
+    ],
+    "lyrical_preferences": {
+      "narrative_complexity": {
+        "mean": 0.6428571428571429,
+        "std": 0.28212025225902143
+      },
+      "emotional_sophistication": {
+        "mean": 0.7571428571428572,
+        "std": 0.3110220151011035
+      },
+      "thematic_elements_love": {
+        "mean": 0.6428571428571429,
+        "std": 0.410077145554495
+      },
+      "thematic_elements_life": {
+        "mean": 0.4428571428571428,
+        "std": 0.38491981672307085
+      },
+      "thematic_elements_social": {
+        "mean": 0.3,
+        "std": 0.232992949004287
+      },
+      "temporal_focus_past": {
+        "mean": 0.7857142857142857,
+        "std": 0.14568627181693672
+      },
+      "temporal_focus_present": {
+        "mean": 0.7857142857142857,
+        "std": 0.1355261854357877
+      },
+      "temporal_focus_future": {
+        "mean": 0.21428571428571427,
+        "std": 0.2641891715558133
+      }
+    },
+    "cluster": 2
+  },
+  "11": {
+    "favorite_songs": [
+      {
+        "item_id": 5,
+        "title": "You Give Love A Bad Name",
+        "artist": "Bon Jovi",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.0,
+          "emotional_sophistication": 0.0,
+          "thematic_elements": {
+            "love": 1.0,
+            "life": 0.0,
+            "social": 0.0
+          },
+          "temporal_focus": {
+            "past": 1.0,
+            "present": 1.0,
+            "future": 0.0
+          }
+        }
+      },
+      {
+        "item_id": 720,
+        "title": "Knocking On Forbidden Doors",
+        "artist": "Enigma",
+        "rating": 4
+      },
+      {
+        "item_id": 120,
+        "title": "You Can't Roller Skate In A Buffalo Herd",
+        "artist": "Roger Miller",
+        "rating": 4
+      }
+    ],
+    "lyrical_preferences": {
+      "narrative_complexity": {
+        "mean": 0.0,
+        "std": 0
+      },
+      "emotional_sophistication": {
+        "mean": 0.0,
+        "std": 0
+      },
+      "thematic_elements_love": {
+        "mean": 1.0,
+        "std": 0
+      },
+      "thematic_elements_life": {
+        "mean": 0.0,
+        "std": 0
+      },
+      "thematic_elements_social": {
+        "mean": 0.0,
+        "std": 0
+      },
+      "temporal_focus_past": {
+        "mean": 1.0,
+        "std": 0
+      },
+      "temporal_focus_present": {
+        "mean": 1.0,
+        "std": 0
+      },
+      "temporal_focus_future": {
+        "mean": 0.0,
+        "std": 0
+      }
+    },
+    "cluster": 0
+  },
+  "12": {
+    "favorite_songs": [
+      {
+        "item_id": 17,
+        "title": "Can't Let Go",
+        "artist": "Lucinda Williams",
+        "rating": 5,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.9,
+            "life": 0.8,
+            "social": 0.6
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.8,
+            "future": 0.0
+          }
+        }
+      },
+      {
+        "item_id": 120,
+        "title": "You Can't Roller Skate In A Buffalo Herd",
+        "artist": "Roger Miller",
+        "rating": 4
+      },
+      {
+        "item_id": 676,
+        "title": "My Happy Ending",
+        "artist": "Avril Lavigne",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.9,
+            "life": 0.8,
+            "social": 0.4
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.8,
+            "future": 0.0
+          }
+        }
+      },
+      {
+        "item_id": 826,
+        "title": "Lazy Jane",
+        "artist": "STEVE CAMP",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.5,
+          "emotional_sophistication": 0.8,
+          "thematic_elements": {
+            "love": 0.0,
+            "life": 0.0,
+            "social": 0.0
+          },
+          "temporal_focus": {
+            "past": 0.5,
+            "present": 0.5,
+            "future": 0.0
+          }
+        }
+      },
+      {
+        "item_id": 793,
+        "title": "Bala Bay Inn",
+        "artist": "Valley of the Giants",
+        "rating": 5,
+        "lyrical_features": {
+          "narrative_complexity": 0.5,
+          "emotional_sophistication": 0.8,
+          "thematic_elements": {
+            "love": 0.0,
+            "life": 0.0,
+            "social": 0.0
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.0,
+            "future": 0.2
+          }
+        }
+      }
+    ],
+    "lyrical_preferences": {
+      "narrative_complexity": {
+        "mean": 0.65,
+        "std": 0.15000000000000002
+      },
+      "emotional_sophistication": {
+        "mean": 0.8500000000000001,
+        "std": 0.04999999999999999
+      },
+      "thematic_elements_love": {
+        "mean": 0.45,
+        "std": 0.45
+      },
+      "thematic_elements_life": {
+        "mean": 0.4,
+        "std": 0.4
+      },
+      "thematic_elements_social": {
+        "mean": 0.25,
+        "std": 0.2598076211353316
+      },
+      "temporal_focus_past": {
+        "mean": 0.7250000000000001,
+        "std": 0.1299038105676658
+      },
+      "temporal_focus_present": {
+        "mean": 0.525,
+        "std": 0.3269174207655505
+      },
+      "temporal_focus_future": {
+        "mean": 0.05,
+        "std": 0.08660254037844388
+      }
+    },
+    "cluster": 0
+  },
+  "13": {
+    "favorite_songs": [
+      {
+        "item_id": 364,
+        "title": "Elegant Disasters",
+        "artist": "Electric President",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.0,
+            "life": 0.0,
+            "social": 0.2
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.8,
+            "future": 0.4
+          }
+        }
+      },
+      {
+        "item_id": 995,
+        "title": "Welcome To Lunar Industries",
+        "artist": "Clint Mansell",
+        "rating": 4
+      },
+      {
+        "item_id": 720,
+        "title": "Knocking On Forbidden Doors",
+        "artist": "Enigma",
+        "rating": 4
+      },
+      {
+        "item_id": 395,
+        "title": "I Should Be...",
+        "artist": "Dru Hill",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.9,
+            "life": 0.6,
+            "social": 0.4
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.9,
+            "future": 0.6
+          }
+        }
+      },
+      {
+        "item_id": 17,
+        "title": "Can't Let Go",
+        "artist": "Lucinda Williams",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.9,
+            "life": 0.8,
+            "social": 0.6
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.8,
+            "future": 0.0
+          }
+        }
+      },
+      {
+        "item_id": 524,
+        "title": "Louder Than Thunder",
+        "artist": "The Devil Wears Prada",
+        "rating": 5,
+        "lyrical_features": {
+          "narrative_complexity": 0.0,
+          "emotional_sophistication": 0.0,
+          "thematic_elements": {
+            "love": 0.0,
+            "life": 0.0,
+            "social": 0.0
+          },
+          "temporal_focus": {
+            "past": 0.0,
+            "present": 1.0,
+            "future": 0.0
+          }
+        }
+      },
+      {
+        "item_id": 793,
+        "title": "Bala Bay Inn",
+        "artist": "Valley of the Giants",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.5,
+          "emotional_sophistication": 0.8,
+          "thematic_elements": {
+            "love": 0.0,
+            "life": 0.0,
+            "social": 0.0
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.0,
+            "future": 0.2
+          }
+        }
+      },
+      {
+        "item_id": 676,
+        "title": "My Happy Ending",
+        "artist": "Avril Lavigne",
+        "rating": 5,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.9,
+            "life": 0.8,
+            "social": 0.4
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.8,
+            "future": 0.0
+          }
+        }
+      },
+      {
+        "item_id": 863,
+        "title": "Life In Technicolor Ii",
+        "artist": "Coldplay",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.0,
+          "emotional_sophistication": 0.0,
+          "thematic_elements": {
+            "love": 1.0,
+            "life": 0.0,
+            "social": 0.0
+          },
+          "temporal_focus": {
+            "past": 0.0,
+            "present": 1.0,
+            "future": 1.0
+          }
+        }
+      }
+    ],
+    "lyrical_preferences": {
+      "narrative_complexity": {
+        "mean": 0.5285714285714286,
+        "std": 0.34934340744678527
+      },
+      "emotional_sophistication": {
+        "mean": 0.6285714285714287,
+        "std": 0.3989782869648269
+      },
+      "thematic_elements_love": {
+        "mean": 0.5285714285714286,
+        "std": 0.4589250972631146
+      },
+      "thematic_elements_life": {
+        "mean": 0.31428571428571433,
+        "std": 0.3681171064778608
+      },
+      "thematic_elements_social": {
+        "mean": 0.2285714285714286,
+        "std": 0.2249716535431946
+      },
+      "temporal_focus_past": {
+        "mean": 0.5714285714285714,
+        "std": 0.36140316116210053
+      },
+      "temporal_focus_present": {
+        "mean": 0.7571428571428571,
+        "std": 0.32007652146297255
+      },
+      "temporal_focus_future": {
+        "mean": 0.31428571428571433,
+        "std": 0.35225222874108436
+      }
+    },
+    "cluster": 2
+  },
+  "14": {
+    "favorite_songs": [
+      {
+        "item_id": 863,
+        "title": "Life In Technicolor Ii",
+        "artist": "Coldplay",
+        "rating": 5,
+        "lyrical_features": {
+          "narrative_complexity": 0.0,
+          "emotional_sophistication": 0.0,
+          "thematic_elements": {
+            "love": 1.0,
+            "life": 0.0,
+            "social": 0.0
+          },
+          "temporal_focus": {
+            "past": 0.0,
+            "present": 1.0,
+            "future": 1.0
+          }
+        }
+      },
+      {
+        "item_id": 17,
+        "title": "Can't Let Go",
+        "artist": "Lucinda Williams",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.9,
+            "life": 0.8,
+            "social": 0.6
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.8,
+            "future": 0.0
+          }
+        }
+      },
+      {
+        "item_id": 793,
+        "title": "Bala Bay Inn",
+        "artist": "Valley of the Giants",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.5,
+          "emotional_sophistication": 0.8,
+          "thematic_elements": {
+            "love": 0.0,
+            "life": 0.0,
+            "social": 0.0
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.0,
+            "future": 0.2
+          }
+        }
+      },
+      {
+        "item_id": 676,
+        "title": "My Happy Ending",
+        "artist": "Avril Lavigne",
+        "rating": 5,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.9,
+            "life": 0.8,
+            "social": 0.4
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.8,
+            "future": 0.0
+          }
+        }
+      },
+      {
+        "item_id": 132,
+        "title": "Somebody To Love",
+        "artist": "Queen",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.5,
+          "emotional_sophistication": 0.8,
+          "thematic_elements": {
+            "love": 0.9,
+            "life": 0.7,
+            "social": 0.2
+          },
+          "temporal_focus": {
+            "past": 0.6,
+            "present": 0.8,
+            "future": 0.4
+          }
+        }
+      },
+      {
+        "item_id": 364,
+        "title": "Elegant Disasters",
+        "artist": "Electric President",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.0,
+            "life": 0.0,
+            "social": 0.2
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.8,
+            "future": 0.4
+          }
+        }
+      },
+      {
+        "item_id": 995,
+        "title": "Welcome To Lunar Industries",
+        "artist": "Clint Mansell",
+        "rating": 4
+      },
+      {
+        "item_id": 597,
+        "title": "Swim",
+        "artist": "Surfer Blood",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.5,
+          "emotional_sophistication": 0.8,
+          "thematic_elements": {
+            "love": 0.0,
+            "life": 0.0,
+            "social": 0.0
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.2,
+            "future": 0.0
+          }
+        }
+      },
+      {
+        "item_id": 468,
+        "title": "Livin' On A Prayer",
+        "artist": "Bon Jovi",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.9,
+            "life": 0.8,
+            "social": 0.6
+          },
+          "temporal_focus": {
+            "past": 0.9,
+            "present": 0.8,
+            "future": 0.7
+          }
+        }
+      },
+      {
+        "item_id": 524,
+        "title": "Louder Than Thunder",
+        "artist": "The Devil Wears Prada",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.0,
+          "emotional_sophistication": 0.0,
+          "thematic_elements": {
+            "love": 0.0,
+            "life": 0.0,
+            "social": 0.0
+          },
+          "temporal_focus": {
+            "past": 0.0,
+            "present": 1.0,
+            "future": 0.0
+          }
+        }
+      }
+    ],
+    "lyrical_preferences": {
+      "narrative_complexity": {
+        "mean": 0.5222222222222223,
+        "std": 0.30832082056692467
+      },
+      "emotional_sophistication": {
+        "mean": 0.6666666666666666,
+        "std": 0.3590109871423003
+      },
+      "thematic_elements_love": {
+        "mean": 0.5111111111111111,
+        "std": 0.4581228472908512
+      },
+      "thematic_elements_life": {
+        "mean": 0.34444444444444444,
+        "std": 0.3861810488218393
+      },
+      "thematic_elements_social": {
+        "mean": 0.2222222222222222,
+        "std": 0.23934065809486685
+      },
+      "temporal_focus_past": {
+        "mean": 0.6111111111111112,
+        "std": 0.3348115371848748
+      },
+      "temporal_focus_present": {
+        "mean": 0.6888888888888889,
+        "std": 0.3281071791162978
+      },
+      "temporal_focus_future": {
+        "mean": 0.30000000000000004,
+        "std": 0.339934634239519
+      }
+    },
+    "cluster": 2
+  },
+  "15": {
+    "favorite_songs": [
+      {
+        "item_id": 597,
+        "title": "Swim",
+        "artist": "Surfer Blood",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.5,
+          "emotional_sophistication": 0.8,
+          "thematic_elements": {
+            "love": 0.0,
+            "life": 0.0,
+            "social": 0.0
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.2,
+            "future": 0.0
+          }
+        }
+      },
+      {
+        "item_id": 826,
+        "title": "Lazy Jane",
+        "artist": "STEVE CAMP",
+        "rating": 5,
+        "lyrical_features": {
+          "narrative_complexity": 0.5,
+          "emotional_sophistication": 0.8,
+          "thematic_elements": {
+            "love": 0.0,
+            "life": 0.0,
+            "social": 0.0
+          },
+          "temporal_focus": {
+            "past": 0.5,
+            "present": 0.5,
+            "future": 0.0
+          }
+        }
+      },
+      {
+        "item_id": 863,
+        "title": "Life In Technicolor Ii",
+        "artist": "Coldplay",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.0,
+          "emotional_sophistication": 0.0,
+          "thematic_elements": {
+            "love": 1.0,
+            "life": 0.0,
+            "social": 0.0
+          },
+          "temporal_focus": {
+            "past": 0.0,
+            "present": 1.0,
+            "future": 1.0
+          }
+        }
+      },
+      {
+        "item_id": 5,
+        "title": "You Give Love A Bad Name",
+        "artist": "Bon Jovi",
+        "rating": 5,
+        "lyrical_features": {
+          "narrative_complexity": 0.0,
+          "emotional_sophistication": 0.0,
+          "thematic_elements": {
+            "love": 1.0,
+            "life": 0.0,
+            "social": 0.0
+          },
+          "temporal_focus": {
+            "past": 1.0,
+            "present": 1.0,
+            "future": 0.0
+          }
+        }
+      },
+      {
+        "item_id": 676,
+        "title": "My Happy Ending",
+        "artist": "Avril Lavigne",
+        "rating": 5,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.9,
+            "life": 0.8,
+            "social": 0.4
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.8,
+            "future": 0.0
+          }
+        }
+      },
+      {
+        "item_id": 17,
+        "title": "Can't Let Go",
+        "artist": "Lucinda Williams",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.9,
+            "life": 0.8,
+            "social": 0.6
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.8,
+            "future": 0.0
+          }
+        }
+      },
+      {
+        "item_id": 120,
+        "title": "You Can't Roller Skate In A Buffalo Herd",
+        "artist": "Roger Miller",
+        "rating": 4
+      },
+      {
+        "item_id": 395,
+        "title": "I Should Be...",
+        "artist": "Dru Hill",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.9,
+            "life": 0.6,
+            "social": 0.4
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.9,
+            "future": 0.6
+          }
+        }
+      }
+    ],
+    "lyrical_preferences": {
+      "narrative_complexity": {
+        "mean": 0.48571428571428577,
+        "std": 0.3313546715640915
+      },
+      "emotional_sophistication": {
+        "mean": 0.6142857142857142,
+        "std": 0.39070840946220986
+      },
+      "thematic_elements_love": {
+        "mean": 0.6714285714285715,
+        "std": 0.4266624149448022
+      },
+      "thematic_elements_life": {
+        "mean": 0.31428571428571433,
+        "std": 0.3681171064778607
+      },
+      "thematic_elements_social": {
+        "mean": 0.19999999999999998,
+        "std": 0.23904572186687875
+      },
+      "temporal_focus_past": {
+        "mean": 0.6714285714285714,
+        "std": 0.3057276365576099
+      },
+      "temporal_focus_present": {
+        "mean": 0.7428571428571429,
+        "std": 0.2718042512920064
+      },
+      "temporal_focus_future": {
+        "mean": 0.2285714285714286,
+        "std": 0.37688302737922624
+      }
+    },
+    "cluster": 0
+  },
+  "16": {
+    "favorite_songs": [
+      {
+        "item_id": 17,
+        "title": "Can't Let Go",
+        "artist": "Lucinda Williams",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.9,
+            "life": 0.8,
+            "social": 0.6
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.8,
+            "future": 0.0
+          }
+        }
+      },
+      {
+        "item_id": 720,
+        "title": "Knocking On Forbidden Doors",
+        "artist": "Enigma",
+        "rating": 4
+      },
+      {
+        "item_id": 395,
+        "title": "I Should Be...",
+        "artist": "Dru Hill",
+        "rating": 5,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.9,
+            "life": 0.6,
+            "social": 0.4
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.9,
+            "future": 0.6
+          }
+        }
+      },
+      {
+        "item_id": 676,
+        "title": "My Happy Ending",
+        "artist": "Avril Lavigne",
+        "rating": 5,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.9,
+            "life": 0.8,
+            "social": 0.4
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.8,
+            "future": 0.0
+          }
+        }
+      },
+      {
+        "item_id": 863,
+        "title": "Life In Technicolor Ii",
+        "artist": "Coldplay",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.0,
+          "emotional_sophistication": 0.0,
+          "thematic_elements": {
+            "love": 1.0,
+            "life": 0.0,
+            "social": 0.0
+          },
+          "temporal_focus": {
+            "past": 0.0,
+            "present": 1.0,
+            "future": 1.0
+          }
+        }
+      },
+      {
+        "item_id": 468,
+        "title": "Livin' On A Prayer",
+        "artist": "Bon Jovi",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.9,
+            "life": 0.8,
+            "social": 0.6
+          },
+          "temporal_focus": {
+            "past": 0.9,
+            "present": 0.8,
+            "future": 0.7
+          }
+        }
+      },
+      {
+        "item_id": 364,
+        "title": "Elegant Disasters",
+        "artist": "Electric President",
+        "rating": 5,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.0,
+            "life": 0.0,
+            "social": 0.2
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.8,
+            "future": 0.4
+          }
+        }
+      },
+      {
+        "item_id": 524,
+        "title": "Louder Than Thunder",
+        "artist": "The Devil Wears Prada",
+        "rating": 5,
+        "lyrical_features": {
+          "narrative_complexity": 0.0,
+          "emotional_sophistication": 0.0,
+          "thematic_elements": {
+            "love": 0.0,
+            "life": 0.0,
+            "social": 0.0
+          },
+          "temporal_focus": {
+            "past": 0.0,
+            "present": 1.0,
+            "future": 0.0
+          }
+        }
+      },
+      {
+        "item_id": 132,
+        "title": "Somebody To Love",
+        "artist": "Queen",
+        "rating": 5,
+        "lyrical_features": {
+          "narrative_complexity": 0.5,
+          "emotional_sophistication": 0.8,
+          "thematic_elements": {
+            "love": 0.9,
+            "life": 0.7,
+            "social": 0.2
+          },
+          "temporal_focus": {
+            "past": 0.6,
+            "present": 0.8,
+            "future": 0.4
+          }
+        }
+      },
+      {
+        "item_id": 995,
+        "title": "Welcome To Lunar Industries",
+        "artist": "Clint Mansell",
+        "rating": 4
+      },
+      {
+        "item_id": 5,
+        "title": "You Give Love A Bad Name",
+        "artist": "Bon Jovi",
+        "rating": 5,
+        "lyrical_features": {
+          "narrative_complexity": 0.0,
+          "emotional_sophistication": 0.0,
+          "thematic_elements": {
+            "love": 1.0,
+            "life": 0.0,
+            "social": 0.0
+          },
+          "temporal_focus": {
+            "past": 1.0,
+            "present": 1.0,
+            "future": 0.0
+          }
+        }
+      }
+    ],
+    "lyrical_preferences": {
+      "narrative_complexity": {
+        "mean": 0.5,
+        "std": 0.36514837167011077
+      },
+      "emotional_sophistication": {
+        "mean": 0.588888888888889,
+        "std": 0.41751764951235415
+      },
+      "thematic_elements_love": {
+        "mean": 0.7222222222222222,
+        "std": 0.3880944265905107
+      },
+      "thematic_elements_life": {
+        "mean": 0.41111111111111115,
+        "std": 0.3725123247608936
+      },
+      "thematic_elements_social": {
+        "mean": 0.26666666666666666,
+        "std": 0.23094010767585033
+      },
+      "temporal_focus_past": {
+        "mean": 0.6333333333333334,
+        "std": 0.35276684147527876
+      },
+      "temporal_focus_present": {
+        "mean": 0.8777777777777778,
+        "std": 0.09162456945817021
+      },
+      "temporal_focus_future": {
+        "mean": 0.34444444444444444,
+        "std": 0.3499559055116361
+      }
+    },
+    "cluster": 2
+  },
+  "17": {
+    "favorite_songs": [
+      {
+        "item_id": 720,
+        "title": "Knocking On Forbidden Doors",
+        "artist": "Enigma",
+        "rating": 4
+      },
+      {
+        "item_id": 597,
+        "title": "Swim",
+        "artist": "Surfer Blood",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.5,
+          "emotional_sophistication": 0.8,
+          "thematic_elements": {
+            "love": 0.0,
+            "life": 0.0,
+            "social": 0.0
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.2,
+            "future": 0.0
+          }
+        }
+      },
+      {
+        "item_id": 676,
+        "title": "My Happy Ending",
+        "artist": "Avril Lavigne",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.9,
+            "life": 0.8,
+            "social": 0.4
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.8,
+            "future": 0.0
+          }
+        }
+      },
+      {
+        "item_id": 995,
+        "title": "Welcome To Lunar Industries",
+        "artist": "Clint Mansell",
+        "rating": 4
+      },
+      {
+        "item_id": 524,
+        "title": "Louder Than Thunder",
+        "artist": "The Devil Wears Prada",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.0,
+          "emotional_sophistication": 0.0,
+          "thematic_elements": {
+            "love": 0.0,
+            "life": 0.0,
+            "social": 0.0
+          },
+          "temporal_focus": {
+            "past": 0.0,
+            "present": 1.0,
+            "future": 0.0
+          }
+        }
+      },
+      {
+        "item_id": 793,
+        "title": "Bala Bay Inn",
+        "artist": "Valley of the Giants",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.5,
+          "emotional_sophistication": 0.8,
+          "thematic_elements": {
+            "love": 0.0,
+            "life": 0.0,
+            "social": 0.0
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.0,
+            "future": 0.2
+          }
+        }
+      }
+    ],
+    "lyrical_preferences": {
+      "narrative_complexity": {
+        "mean": 0.45,
+        "std": 0.2872281323269014
+      },
+      "emotional_sophistication": {
+        "mean": 0.625,
+        "std": 0.36314597615834876
+      },
+      "thematic_elements_love": {
+        "mean": 0.225,
+        "std": 0.38971143170299744
+      },
+      "thematic_elements_life": {
+        "mean": 0.2,
+        "std": 0.3464101615137755
+      },
+      "thematic_elements_social": {
+        "mean": 0.1,
+        "std": 0.17320508075688776
+      },
+      "temporal_focus_past": {
+        "mean": 0.6000000000000001,
+        "std": 0.34641016151377546
+      },
+      "temporal_focus_present": {
+        "mean": 0.5,
+        "std": 0.41231056256176607
+      },
+      "temporal_focus_future": {
+        "mean": 0.05,
+        "std": 0.08660254037844388
+      }
+    },
+    "cluster": 1
+  },
+  "18": {
+    "favorite_songs": [
+      {
+        "item_id": 524,
+        "title": "Louder Than Thunder",
+        "artist": "The Devil Wears Prada",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.0,
+          "emotional_sophistication": 0.0,
+          "thematic_elements": {
+            "love": 0.0,
+            "life": 0.0,
+            "social": 0.0
+          },
+          "temporal_focus": {
+            "past": 0.0,
+            "present": 1.0,
+            "future": 0.0
+          }
+        }
+      },
+      {
+        "item_id": 5,
+        "title": "You Give Love A Bad Name",
+        "artist": "Bon Jovi",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.0,
+          "emotional_sophistication": 0.0,
+          "thematic_elements": {
+            "love": 1.0,
+            "life": 0.0,
+            "social": 0.0
+          },
+          "temporal_focus": {
+            "past": 1.0,
+            "present": 1.0,
+            "future": 0.0
+          }
+        }
+      },
+      {
+        "item_id": 676,
+        "title": "My Happy Ending",
+        "artist": "Avril Lavigne",
+        "rating": 5,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.9,
+            "life": 0.8,
+            "social": 0.4
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.8,
+            "future": 0.0
+          }
+        }
+      }
+    ],
+    "lyrical_preferences": {
+      "narrative_complexity": {
+        "mean": 0.26666666666666666,
+        "std": 0.3771236166328254
+      },
+      "emotional_sophistication": {
+        "mean": 0.3,
+        "std": 0.42426406871192857
+      },
+      "thematic_elements_love": {
+        "mean": 0.6333333333333333,
+        "std": 0.4496912521077347
+      },
+      "thematic_elements_life": {
+        "mean": 0.26666666666666666,
+        "std": 0.3771236166328254
+      },
+      "thematic_elements_social": {
+        "mean": 0.13333333333333333,
+        "std": 0.1885618083164127
+      },
+      "temporal_focus_past": {
+        "mean": 0.6,
+        "std": 0.43204937989385733
+      },
+      "temporal_focus_present": {
+        "mean": 0.9333333333333332,
+        "std": 0.09428090415820632
+      },
+      "temporal_focus_future": {
+        "mean": 0.0,
+        "std": 0.0
+      }
+    },
+    "cluster": 0
+  },
+  "19": {
+    "favorite_songs": [
+      {
+        "item_id": 120,
+        "title": "You Can't Roller Skate In A Buffalo Herd",
+        "artist": "Roger Miller",
+        "rating": 4
+      },
+      {
+        "item_id": 5,
+        "title": "You Give Love A Bad Name",
+        "artist": "Bon Jovi",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.0,
+          "emotional_sophistication": 0.0,
+          "thematic_elements": {
+            "love": 1.0,
+            "life": 0.0,
+            "social": 0.0
+          },
+          "temporal_focus": {
+            "past": 1.0,
+            "present": 1.0,
+            "future": 0.0
+          }
+        }
+      },
+      {
+        "item_id": 826,
+        "title": "Lazy Jane",
+        "artist": "STEVE CAMP",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.5,
+          "emotional_sophistication": 0.8,
+          "thematic_elements": {
+            "love": 0.0,
+            "life": 0.0,
+            "social": 0.0
+          },
+          "temporal_focus": {
+            "past": 0.5,
+            "present": 0.5,
+            "future": 0.0
+          }
+        }
+      },
+      {
+        "item_id": 17,
+        "title": "Can't Let Go",
+        "artist": "Lucinda Williams",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.9,
+            "life": 0.8,
+            "social": 0.6
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.8,
+            "future": 0.0
+          }
+        }
+      },
+      {
+        "item_id": 676,
+        "title": "My Happy Ending",
+        "artist": "Avril Lavigne",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.9,
+            "life": 0.8,
+            "social": 0.4
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.8,
+            "future": 0.0
+          }
+        }
+      },
+      {
+        "item_id": 132,
+        "title": "Somebody To Love",
+        "artist": "Queen",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.5,
+          "emotional_sophistication": 0.8,
+          "thematic_elements": {
+            "love": 0.9,
+            "life": 0.7,
+            "social": 0.2
+          },
+          "temporal_focus": {
+            "past": 0.6,
+            "present": 0.8,
+            "future": 0.4
+          }
+        }
+      }
+    ],
+    "lyrical_preferences": {
+      "narrative_complexity": {
+        "mean": 0.52,
+        "std": 0.2925747767665559
+      },
+      "emotional_sophistication": {
+        "mean": 0.68,
+        "std": 0.34292856398964494
+      },
+      "thematic_elements_love": {
+        "mean": 0.74,
+        "std": 0.37202150475476553
+      },
+      "thematic_elements_life": {
+        "mean": 0.45999999999999996,
+        "std": 0.37735924528226417
+      },
+      "thematic_elements_social": {
+        "mean": 0.24,
+        "std": 0.233238075793812
+      },
+      "temporal_focus_past": {
+        "mean": 0.74,
+        "std": 0.17435595774162696
+      },
+      "temporal_focus_present": {
+        "mean": 0.7799999999999999,
+        "std": 0.16
+      },
+      "temporal_focus_future": {
+        "mean": 0.08,
+        "std": 0.16
+      }
+    },
+    "cluster": 2
+  },
+  "20": {
+    "favorite_songs": [
+      {
+        "item_id": 17,
+        "title": "Can't Let Go",
+        "artist": "Lucinda Williams",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.9,
+            "life": 0.8,
+            "social": 0.6
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.8,
+            "future": 0.0
+          }
+        }
+      },
+      {
+        "item_id": 676,
+        "title": "My Happy Ending",
+        "artist": "Avril Lavigne",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.9,
+            "life": 0.8,
+            "social": 0.4
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.8,
+            "future": 0.0
+          }
+        }
+      },
+      {
+        "item_id": 395,
+        "title": "I Should Be...",
+        "artist": "Dru Hill",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.9,
+            "life": 0.6,
+            "social": 0.4
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.9,
+            "future": 0.6
+          }
+        }
+      },
+      {
+        "item_id": 132,
+        "title": "Somebody To Love",
+        "artist": "Queen",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.5,
+          "emotional_sophistication": 0.8,
+          "thematic_elements": {
+            "love": 0.9,
+            "life": 0.7,
+            "social": 0.2
+          },
+          "temporal_focus": {
+            "past": 0.6,
+            "present": 0.8,
+            "future": 0.4
+          }
+        }
+      },
+      {
+        "item_id": 120,
+        "title": "You Can't Roller Skate In A Buffalo Herd",
+        "artist": "Roger Miller",
+        "rating": 4
+      },
+      {
+        "item_id": 364,
+        "title": "Elegant Disasters",
+        "artist": "Electric President",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.0,
+            "life": 0.0,
+            "social": 0.2
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.8,
+            "future": 0.4
+          }
+        }
+      },
+      {
+        "item_id": 995,
+        "title": "Welcome To Lunar Industries",
+        "artist": "Clint Mansell",
+        "rating": 4
+      },
+      {
+        "item_id": 468,
+        "title": "Livin' On A Prayer",
+        "artist": "Bon Jovi",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.9,
+            "life": 0.8,
+            "social": 0.6
+          },
+          "temporal_focus": {
+            "past": 0.9,
+            "present": 0.8,
+            "future": 0.7
+          }
+        }
+      }
+    ],
+    "lyrical_preferences": {
+      "narrative_complexity": {
+        "mean": 0.75,
+        "std": 0.1118033988749895
+      },
+      "emotional_sophistication": {
+        "mean": 0.8833333333333334,
+        "std": 0.03726779962499649
+      },
+      "thematic_elements_love": {
+        "mean": 0.75,
+        "std": 0.33541019662496846
+      },
+      "thematic_elements_life": {
+        "mean": 0.6166666666666667,
+        "std": 0.2852873794770615
+      },
+      "thematic_elements_social": {
+        "mean": 0.39999999999999997,
+        "std": 0.1632993161855452
+      },
+      "temporal_focus_past": {
+        "mean": 0.7833333333333335,
+        "std": 0.08975274678557509
+      },
+      "temporal_focus_present": {
+        "mean": 0.8166666666666665,
+        "std": 0.03726779962499649
+      },
+      "temporal_focus_future": {
+        "mean": 0.3499999999999999,
+        "std": 0.2692582403567252
+      }
+    },
+    "cluster": 1
+  },
+  "21": {
+    "favorite_songs": [
+      {
+        "item_id": 132,
+        "title": "Somebody To Love",
+        "artist": "Queen",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.5,
+          "emotional_sophistication": 0.8,
+          "thematic_elements": {
+            "love": 0.9,
+            "life": 0.7,
+            "social": 0.2
+          },
+          "temporal_focus": {
+            "past": 0.6,
+            "present": 0.8,
+            "future": 0.4
+          }
+        }
+      },
+      {
+        "item_id": 524,
+        "title": "Louder Than Thunder",
+        "artist": "The Devil Wears Prada",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.0,
+          "emotional_sophistication": 0.0,
+          "thematic_elements": {
+            "love": 0.0,
+            "life": 0.0,
+            "social": 0.0
+          },
+          "temporal_focus": {
+            "past": 0.0,
+            "present": 1.0,
+            "future": 0.0
+          }
+        }
+      },
+      {
+        "item_id": 863,
+        "title": "Life In Technicolor Ii",
+        "artist": "Coldplay",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.0,
+          "emotional_sophistication": 0.0,
+          "thematic_elements": {
+            "love": 1.0,
+            "life": 0.0,
+            "social": 0.0
+          },
+          "temporal_focus": {
+            "past": 0.0,
+            "present": 1.0,
+            "future": 1.0
+          }
+        }
+      },
+      {
+        "item_id": 676,
+        "title": "My Happy Ending",
+        "artist": "Avril Lavigne",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.9,
+            "life": 0.8,
+            "social": 0.4
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.8,
+            "future": 0.0
+          }
+        }
+      },
+      {
+        "item_id": 793,
+        "title": "Bala Bay Inn",
+        "artist": "Valley of the Giants",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.5,
+          "emotional_sophistication": 0.8,
+          "thematic_elements": {
+            "love": 0.0,
+            "life": 0.0,
+            "social": 0.0
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.0,
+            "future": 0.2
+          }
+        }
+      },
+      {
+        "item_id": 995,
+        "title": "Welcome To Lunar Industries",
+        "artist": "Clint Mansell",
+        "rating": 4
+      }
+    ],
+    "lyrical_preferences": {
+      "narrative_complexity": {
+        "mean": 0.36,
+        "std": 0.31368774282716244
+      },
+      "emotional_sophistication": {
+        "mean": 0.5,
+        "std": 0.40987803063838396
+      },
+      "thematic_elements_love": {
+        "mean": 0.5599999999999999,
+        "std": 0.4586937976471886
+      },
+      "thematic_elements_life": {
+        "mean": 0.3,
+        "std": 0.3687817782917155
+      },
+      "thematic_elements_social": {
+        "mean": 0.12000000000000002,
+        "std": 0.16
+      },
+      "temporal_focus_past": {
+        "mean": 0.44000000000000006,
+        "std": 0.3666060555964672
+      },
+      "temporal_focus_present": {
+        "mean": 0.72,
+        "std": 0.3709447398198282
+      },
+      "temporal_focus_future": {
+        "mean": 0.31999999999999995,
+        "std": 0.3709447398198282
+      }
+    },
+    "cluster": 1
+  },
+  "22": {
+    "favorite_songs": [
+      {
+        "item_id": 17,
+        "title": "Can't Let Go",
+        "artist": "Lucinda Williams",
+        "rating": 5,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.9,
+            "life": 0.8,
+            "social": 0.6
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.8,
+            "future": 0.0
+          }
+        }
+      },
+      {
+        "item_id": 826,
+        "title": "Lazy Jane",
+        "artist": "STEVE CAMP",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.5,
+          "emotional_sophistication": 0.8,
+          "thematic_elements": {
+            "love": 0.0,
+            "life": 0.0,
+            "social": 0.0
+          },
+          "temporal_focus": {
+            "past": 0.5,
+            "present": 0.5,
+            "future": 0.0
+          }
+        }
+      },
+      {
+        "item_id": 395,
+        "title": "I Should Be...",
+        "artist": "Dru Hill",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.9,
+            "life": 0.6,
+            "social": 0.4
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.9,
+            "future": 0.6
+          }
+        }
+      },
+      {
+        "item_id": 676,
+        "title": "My Happy Ending",
+        "artist": "Avril Lavigne",
+        "rating": 5,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.9,
+            "life": 0.8,
+            "social": 0.4
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.8,
+            "future": 0.0
+          }
+        }
+      },
+      {
+        "item_id": 120,
+        "title": "You Can't Roller Skate In A Buffalo Herd",
+        "artist": "Roger Miller",
+        "rating": 4
+      },
+      {
+        "item_id": 364,
+        "title": "Elegant Disasters",
+        "artist": "Electric President",
+        "rating": 5,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.0,
+            "life": 0.0,
+            "social": 0.2
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.8,
+            "future": 0.4
+          }
+        }
+      },
+      {
+        "item_id": 524,
+        "title": "Louder Than Thunder",
+        "artist": "The Devil Wears Prada",
+        "rating": 5,
+        "lyrical_features": {
+          "narrative_complexity": 0.0,
+          "emotional_sophistication": 0.0,
+          "thematic_elements": {
+            "love": 0.0,
+            "life": 0.0,
+            "social": 0.0
+          },
+          "temporal_focus": {
+            "past": 0.0,
+            "present": 1.0,
+            "future": 0.0
+          }
+        }
+      },
+      {
+        "item_id": 132,
+        "title": "Somebody To Love",
+        "artist": "Queen",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.5,
+          "emotional_sophistication": 0.8,
+          "thematic_elements": {
+            "love": 0.9,
+            "life": 0.7,
+            "social": 0.2
+          },
+          "temporal_focus": {
+            "past": 0.6,
+            "present": 0.8,
+            "future": 0.4
+          }
+        }
+      },
+      {
+        "item_id": 5,
+        "title": "You Give Love A Bad Name",
+        "artist": "Bon Jovi",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.0,
+          "emotional_sophistication": 0.0,
+          "thematic_elements": {
+            "love": 1.0,
+            "life": 0.0,
+            "social": 0.0
+          },
+          "temporal_focus": {
+            "past": 1.0,
+            "present": 1.0,
+            "future": 0.0
+          }
+        }
+      }
+    ],
+    "lyrical_preferences": {
+      "narrative_complexity": {
+        "mean": 0.525,
+        "std": 0.3269174207655505
+      },
+      "emotional_sophistication": {
+        "mean": 0.65,
+        "std": 0.3774917217635375
+      },
+      "thematic_elements_love": {
+        "mean": 0.575,
+        "std": 0.44651427748729383
+      },
+      "thematic_elements_life": {
+        "mean": 0.36250000000000004,
+        "std": 0.36721077053920953
+      },
+      "thematic_elements_social": {
+        "mean": 0.22499999999999998,
+        "std": 0.21065374432940895
+      },
+      "temporal_focus_past": {
+        "mean": 0.6625000000000001,
+        "std": 0.28695600708122493
+      },
+      "temporal_focus_present": {
+        "mean": 0.825,
+        "std": 0.1479019945774904
+      },
+      "temporal_focus_future": {
+        "mean": 0.175,
+        "std": 0.23318447632722036
+      }
+    },
+    "cluster": 0
+  },
+  "23": {
+    "favorite_songs": [
+      {
+        "item_id": 120,
+        "title": "You Can't Roller Skate In A Buffalo Herd",
+        "artist": "Roger Miller",
+        "rating": 4
+      },
+      {
+        "item_id": 863,
+        "title": "Life In Technicolor Ii",
+        "artist": "Coldplay",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.0,
+          "emotional_sophistication": 0.0,
+          "thematic_elements": {
+            "love": 1.0,
+            "life": 0.0,
+            "social": 0.0
+          },
+          "temporal_focus": {
+            "past": 0.0,
+            "present": 1.0,
+            "future": 1.0
+          }
+        }
+      },
+      {
+        "item_id": 826,
+        "title": "Lazy Jane",
+        "artist": "STEVE CAMP",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.5,
+          "emotional_sophistication": 0.8,
+          "thematic_elements": {
+            "love": 0.0,
+            "life": 0.0,
+            "social": 0.0
+          },
+          "temporal_focus": {
+            "past": 0.5,
+            "present": 0.5,
+            "future": 0.0
+          }
+        }
+      },
+      {
+        "item_id": 17,
+        "title": "Can't Let Go",
+        "artist": "Lucinda Williams",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.9,
+            "life": 0.8,
+            "social": 0.6
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.8,
+            "future": 0.0
+          }
+        }
+      },
+      {
+        "item_id": 676,
+        "title": "My Happy Ending",
+        "artist": "Avril Lavigne",
+        "rating": 5,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.9,
+            "life": 0.8,
+            "social": 0.4
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.8,
+            "future": 0.0
+          }
+        }
+      },
+      {
+        "item_id": 524,
+        "title": "Louder Than Thunder",
+        "artist": "The Devil Wears Prada",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.0,
+          "emotional_sophistication": 0.0,
+          "thematic_elements": {
+            "love": 0.0,
+            "life": 0.0,
+            "social": 0.0
+          },
+          "temporal_focus": {
+            "past": 0.0,
+            "present": 1.0,
+            "future": 0.0
+          }
+        }
+      }
+    ],
+    "lyrical_preferences": {
+      "narrative_complexity": {
+        "mean": 0.42000000000000004,
+        "std": 0.36
+      },
+      "emotional_sophistication": {
+        "mean": 0.52,
+        "std": 0.4261455150532504
+      },
+      "thematic_elements_love": {
+        "mean": 0.5599999999999999,
+        "std": 0.4586937976471886
+      },
+      "thematic_elements_life": {
+        "mean": 0.32,
+        "std": 0.3919183588453085
+      },
+      "thematic_elements_social": {
+        "mean": 0.2,
+        "std": 0.2529822128134704
+      },
+      "temporal_focus_past": {
+        "mean": 0.42000000000000004,
+        "std": 0.36
+      },
+      "temporal_focus_present": {
+        "mean": 0.82,
+        "std": 0.18330302779823357
+      },
+      "temporal_focus_future": {
+        "mean": 0.2,
+        "std": 0.4000000000000001
+      }
+    },
+    "cluster": 0
+  },
+  "24": {
+    "favorite_songs": [
+      {
+        "item_id": 17,
+        "title": "Can't Let Go",
+        "artist": "Lucinda Williams",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.9,
+            "life": 0.8,
+            "social": 0.6
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.8,
+            "future": 0.0
+          }
+        }
+      },
+      {
+        "item_id": 120,
+        "title": "You Can't Roller Skate In A Buffalo Herd",
+        "artist": "Roger Miller",
+        "rating": 5
+      },
+      {
+        "item_id": 707,
+        "title": "The Good Left Undone",
+        "artist": "Rise Against",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.8,
+            "life": 0.7,
+            "social": 0.3
+          },
+          "temporal_focus": {
+            "past": 0.7,
+            "present": 0.8,
+            "future": 0.4
+          }
+        }
+      },
+      {
+        "item_id": 395,
+        "title": "I Should Be...",
+        "artist": "Dru Hill",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.9,
+            "life": 0.6,
+            "social": 0.4
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.9,
+            "future": 0.6
+          }
+        }
+      },
+      {
+        "item_id": 364,
+        "title": "Elegant Disasters",
+        "artist": "Electric President",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.0,
+            "life": 0.0,
+            "social": 0.2
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.8,
+            "future": 0.4
+          }
+        }
+      },
+      {
+        "item_id": 676,
+        "title": "My Happy Ending",
+        "artist": "Avril Lavigne",
+        "rating": 5,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.9,
+            "life": 0.8,
+            "social": 0.4
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.8,
+            "future": 0.0
+          }
+        }
+      },
+      {
+        "item_id": 826,
+        "title": "Lazy Jane",
+        "artist": "STEVE CAMP",
+        "rating": 5,
+        "lyrical_features": {
+          "narrative_complexity": 0.5,
+          "emotional_sophistication": 0.8,
+          "thematic_elements": {
+            "love": 0.0,
+            "life": 0.0,
+            "social": 0.0
+          },
+          "temporal_focus": {
+            "past": 0.5,
+            "present": 0.5,
+            "future": 0.0
+          }
+        }
+      },
+      {
+        "item_id": 946,
+        "title": "Ride The Lightning",
+        "artist": "Metallica",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.0,
+            "life": 0.8,
+            "social": 0.0
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.8,
+            "future": 0.2
+          }
+        }
+      },
+      {
+        "item_id": 3,
+        "title": NaN,
+        "artist": NaN,
+        "rating": 4
+      },
+      {
+        "item_id": 793,
+        "title": "Bala Bay Inn",
+        "artist": "Valley of the Giants",
+        "rating": 5,
+        "lyrical_features": {
+          "narrative_complexity": 0.5,
+          "emotional_sophistication": 0.8,
+          "thematic_elements": {
+            "love": 0.0,
+            "life": 0.0,
+            "social": 0.0
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.0,
+            "future": 0.2
+          }
+        }
+      },
+      {
+        "item_id": 863,
+        "title": "Life In Technicolor Ii",
+        "artist": "Coldplay",
+        "rating": 5,
+        "lyrical_features": {
+          "narrative_complexity": 0.0,
+          "emotional_sophistication": 0.0,
+          "thematic_elements": {
+            "love": 1.0,
+            "life": 0.0,
+            "social": 0.0
+          },
+          "temporal_focus": {
+            "past": 0.0,
+            "present": 1.0,
+            "future": 1.0
+          }
+        }
+      }
+    ],
+    "lyrical_preferences": {
+      "narrative_complexity": {
+        "mean": 0.6444444444444445,
+        "std": 0.2586765939293959
+      },
+      "emotional_sophistication": {
+        "mean": 0.7777777777777778,
+        "std": 0.27799991118215117
+      },
+      "thematic_elements_love": {
+        "mean": 0.5,
+        "std": 0.44969125210773475
+      },
+      "thematic_elements_life": {
+        "mean": 0.41111111111111115,
+        "std": 0.3725123247608936
+      },
+      "thematic_elements_social": {
+        "mean": 0.2111111111111111,
+        "std": 0.21314806770278752
+      },
+      "temporal_focus_past": {
+        "mean": 0.6666666666666666,
+        "std": 0.253859103528797
+      },
+      "temporal_focus_present": {
+        "mean": 0.7111111111111111,
+        "std": 0.28065179867366863
+      },
+      "temporal_focus_future": {
+        "mean": 0.3111111111111111,
+        "std": 0.31426968052735443
+      }
+    },
+    "cluster": 0
+  },
+  "25": {
+    "favorite_songs": [
+      {
+        "item_id": 364,
+        "title": "Elegant Disasters",
+        "artist": "Electric President",
+        "rating": 5,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.0,
+            "life": 0.0,
+            "social": 0.2
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.8,
+            "future": 0.4
+          }
+        }
+      },
+      {
+        "item_id": 707,
+        "title": "The Good Left Undone",
+        "artist": "Rise Against",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.8,
+            "life": 0.7,
+            "social": 0.3
+          },
+          "temporal_focus": {
+            "past": 0.7,
+            "present": 0.8,
+            "future": 0.4
+          }
+        }
+      },
+      {
+        "item_id": 120,
+        "title": "You Can't Roller Skate In A Buffalo Herd",
+        "artist": "Roger Miller",
+        "rating": 4
+      },
+      {
+        "item_id": 826,
+        "title": "Lazy Jane",
+        "artist": "STEVE CAMP",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.5,
+          "emotional_sophistication": 0.8,
+          "thematic_elements": {
+            "love": 0.0,
+            "life": 0.0,
+            "social": 0.0
+          },
+          "temporal_focus": {
+            "past": 0.5,
+            "present": 0.5,
+            "future": 0.0
+          }
+        }
+      },
+      {
+        "item_id": 17,
+        "title": "Can't Let Go",
+        "artist": "Lucinda Williams",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.9,
+            "life": 0.8,
+            "social": 0.6
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.8,
+            "future": 0.0
+          }
+        }
+      },
+      {
+        "item_id": 524,
+        "title": "Louder Than Thunder",
+        "artist": "The Devil Wears Prada",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.0,
+          "emotional_sophistication": 0.0,
+          "thematic_elements": {
+            "love": 0.0,
+            "life": 0.0,
+            "social": 0.0
+          },
+          "temporal_focus": {
+            "past": 0.0,
+            "present": 1.0,
+            "future": 0.0
+          }
+        }
+      },
+      {
+        "item_id": 676,
+        "title": "My Happy Ending",
+        "artist": "Avril Lavigne",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.9,
+            "life": 0.8,
+            "social": 0.4
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.8,
+            "future": 0.0
+          }
+        }
+      },
+      {
+        "item_id": 468,
+        "title": "Livin' On A Prayer",
+        "artist": "Bon Jovi",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.9,
+            "life": 0.8,
+            "social": 0.6
+          },
+          "temporal_focus": {
+            "past": 0.9,
+            "present": 0.8,
+            "future": 0.7
+          }
+        }
+      },
+      {
+        "item_id": 597,
+        "title": "Swim",
+        "artist": "Surfer Blood",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.5,
+          "emotional_sophistication": 0.8,
+          "thematic_elements": {
+            "love": 0.0,
+            "life": 0.0,
+            "social": 0.0
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.2,
+            "future": 0.0
+          }
+        }
+      }
+    ],
+    "lyrical_preferences": {
+      "narrative_complexity": {
+        "mean": 0.625,
+        "std": 0.2680951323690902
+      },
+      "emotional_sophistication": {
+        "mean": 0.7625,
+        "std": 0.2912795049432761
+      },
+      "thematic_elements_love": {
+        "mean": 0.4375,
+        "std": 0.43857011982122085
+      },
+      "thematic_elements_life": {
+        "mean": 0.3875,
+        "std": 0.3887077951366554
+      },
+      "thematic_elements_social": {
+        "mean": 0.2625,
+        "std": 0.23946555075835022
+      },
+      "temporal_focus_past": {
+        "mean": 0.6625,
+        "std": 0.27357585785299116
+      },
+      "temporal_focus_present": {
+        "mean": 0.7125,
+        "std": 0.23150323971815168
+      },
+      "temporal_focus_future": {
+        "mean": 0.1875,
+        "std": 0.2570870475150392
+      }
+    },
+    "cluster": 0
+  },
+  "26": {
+    "favorite_songs": [
+      {
+        "item_id": 863,
+        "title": "Life In Technicolor Ii",
+        "artist": "Coldplay",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.0,
+          "emotional_sophistication": 0.0,
+          "thematic_elements": {
+            "love": 1.0,
+            "life": 0.0,
+            "social": 0.0
+          },
+          "temporal_focus": {
+            "past": 0.0,
+            "present": 1.0,
+            "future": 1.0
+          }
+        }
+      },
+      {
+        "item_id": 793,
+        "title": "Bala Bay Inn",
+        "artist": "Valley of the Giants",
+        "rating": 5,
+        "lyrical_features": {
+          "narrative_complexity": 0.5,
+          "emotional_sophistication": 0.8,
+          "thematic_elements": {
+            "love": 0.0,
+            "life": 0.0,
+            "social": 0.0
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.0,
+            "future": 0.2
+          }
+        }
+      },
+      {
+        "item_id": 826,
+        "title": "Lazy Jane",
+        "artist": "STEVE CAMP",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.5,
+          "emotional_sophistication": 0.8,
+          "thematic_elements": {
+            "love": 0.0,
+            "life": 0.0,
+            "social": 0.0
+          },
+          "temporal_focus": {
+            "past": 0.5,
+            "present": 0.5,
+            "future": 0.0
+          }
+        }
+      },
+      {
+        "item_id": 720,
+        "title": "Knocking On Forbidden Doors",
+        "artist": "Enigma",
+        "rating": 5
+      },
+      {
+        "item_id": 676,
+        "title": "My Happy Ending",
+        "artist": "Avril Lavigne",
+        "rating": 5,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.9,
+            "life": 0.8,
+            "social": 0.4
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.8,
+            "future": 0.0
+          }
+        }
+      },
+      {
+        "item_id": 707,
+        "title": "The Good Left Undone",
+        "artist": "Rise Against",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.8,
+            "life": 0.7,
+            "social": 0.3
+          },
+          "temporal_focus": {
+            "past": 0.7,
+            "present": 0.8,
+            "future": 0.4
+          }
+        }
+      },
+      {
+        "item_id": 395,
+        "title": "I Should Be...",
+        "artist": "Dru Hill",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.9,
+            "life": 0.6,
+            "social": 0.4
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.9,
+            "future": 0.6
+          }
+        }
+      },
+      {
+        "item_id": 132,
+        "title": "Somebody To Love",
+        "artist": "Queen",
+        "rating": 5,
+        "lyrical_features": {
+          "narrative_complexity": 0.5,
+          "emotional_sophistication": 0.8,
+          "thematic_elements": {
+            "love": 0.9,
+            "life": 0.7,
+            "social": 0.2
+          },
+          "temporal_focus": {
+            "past": 0.6,
+            "present": 0.8,
+            "future": 0.4
+          }
+        }
+      },
+      {
+        "item_id": 120,
+        "title": "You Can't Roller Skate In A Buffalo Herd",
+        "artist": "Roger Miller",
+        "rating": 5
+      },
+      {
+        "item_id": 364,
+        "title": "Elegant Disasters",
+        "artist": "Electric President",
+        "rating": 5,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.0,
+            "life": 0.0,
+            "social": 0.2
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.8,
+            "future": 0.4
+          }
+        }
+      },
+      {
+        "item_id": 597,
+        "title": "Swim",
+        "artist": "Surfer Blood",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.5,
+          "emotional_sophistication": 0.8,
+          "thematic_elements": {
+            "love": 0.0,
+            "life": 0.0,
+            "social": 0.0
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.2,
+            "future": 0.0
+          }
+        }
+      },
+      {
+        "item_id": 468,
+        "title": "Livin' On A Prayer",
+        "artist": "Bon Jovi",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.9,
+            "life": 0.8,
+            "social": 0.6
+          },
+          "temporal_focus": {
+            "past": 0.9,
+            "present": 0.8,
+            "future": 0.7
+          }
+        }
+      },
+      {
+        "item_id": 524,
+        "title": "Louder Than Thunder",
+        "artist": "The Devil Wears Prada",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.0,
+          "emotional_sophistication": 0.0,
+          "thematic_elements": {
+            "love": 0.0,
+            "life": 0.0,
+            "social": 0.0
+          },
+          "temporal_focus": {
+            "past": 0.0,
+            "present": 1.0,
+            "future": 0.0
+          }
+        }
+      }
+    ],
+    "lyrical_preferences": {
+      "narrative_complexity": {
+        "mean": 0.5454545454545454,
+        "std": 0.2903403531394784
+      },
+      "emotional_sophistication": {
+        "mean": 0.7000000000000001,
+        "std": 0.3330301651638946
+      },
+      "thematic_elements_love": {
+        "mean": 0.49090909090909096,
+        "std": 0.45016066920508896
+      },
+      "thematic_elements_life": {
+        "mean": 0.3272727272727272,
+        "std": 0.3620419591225432
+      },
+      "thematic_elements_social": {
+        "mean": 0.19090909090909092,
+        "std": 0.20205555246266246
+      },
+      "temporal_focus_past": {
+        "mean": 0.6090909090909091,
+        "std": 0.3058655243865586
+      },
+      "temporal_focus_present": {
+        "mean": 0.6909090909090909,
+        "std": 0.3088234136629642
+      },
+      "temporal_focus_future": {
+        "mean": 0.33636363636363636,
+        "std": 0.31986567428653057
+      }
+    },
+    "cluster": 2
+  },
+  "27": {
+    "favorite_songs": [
+      {
+        "item_id": 597,
+        "title": "Swim",
+        "artist": "Surfer Blood",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.5,
+          "emotional_sophistication": 0.8,
+          "thematic_elements": {
+            "love": 0.0,
+            "life": 0.0,
+            "social": 0.0
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.2,
+            "future": 0.0
+          }
+        }
+      },
+      {
+        "item_id": 826,
+        "title": "Lazy Jane",
+        "artist": "STEVE CAMP",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.5,
+          "emotional_sophistication": 0.8,
+          "thematic_elements": {
+            "love": 0.0,
+            "life": 0.0,
+            "social": 0.0
+          },
+          "temporal_focus": {
+            "past": 0.5,
+            "present": 0.5,
+            "future": 0.0
+          }
+        }
+      },
+      {
+        "item_id": 676,
+        "title": "My Happy Ending",
+        "artist": "Avril Lavigne",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.9,
+            "life": 0.8,
+            "social": 0.4
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.8,
+            "future": 0.0
+          }
+        }
+      },
+      {
+        "item_id": 17,
+        "title": "Can't Let Go",
+        "artist": "Lucinda Williams",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.9,
+            "life": 0.8,
+            "social": 0.6
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.8,
+            "future": 0.0
+          }
+        }
+      },
+      {
+        "item_id": 468,
+        "title": "Livin' On A Prayer",
+        "artist": "Bon Jovi",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.9,
+            "life": 0.8,
+            "social": 0.6
+          },
+          "temporal_focus": {
+            "past": 0.9,
+            "present": 0.8,
+            "future": 0.7
+          }
+        }
+      },
+      {
+        "item_id": 120,
+        "title": "You Can't Roller Skate In A Buffalo Herd",
+        "artist": "Roger Miller",
+        "rating": 5
+      }
+    ],
+    "lyrical_preferences": {
+      "narrative_complexity": {
+        "mean": 0.68,
+        "std": 0.1469693845669907
+      },
+      "emotional_sophistication": {
+        "mean": 0.86,
+        "std": 0.04898979485566354
+      },
+      "thematic_elements_love": {
+        "mean": 0.54,
+        "std": 0.440908153700972
+      },
+      "thematic_elements_life": {
+        "mean": 0.4800000000000001,
+        "std": 0.3919183588453085
+      },
+      "thematic_elements_social": {
+        "mean": 0.32,
+        "std": 0.2712931993250107
+      },
+      "temporal_focus_past": {
+        "mean": 0.76,
+        "std": 0.1356465996625054
+      },
+      "temporal_focus_present": {
+        "mean": 0.6199999999999999,
+        "std": 0.24000000000000002
+      },
+      "temporal_focus_future": {
+        "mean": 0.13999999999999999,
+        "std": 0.27999999999999997
+      }
+    },
+    "cluster": 2
+  },
+  "28": {
+    "favorite_songs": [
+      {
+        "item_id": 793,
+        "title": "Bala Bay Inn",
+        "artist": "Valley of the Giants",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.5,
+          "emotional_sophistication": 0.8,
+          "thematic_elements": {
+            "love": 0.0,
+            "life": 0.0,
+            "social": 0.0
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.0,
+            "future": 0.2
+          }
+        }
+      },
+      {
+        "item_id": 17,
+        "title": "Can't Let Go",
+        "artist": "Lucinda Williams",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.9,
+            "life": 0.8,
+            "social": 0.6
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.8,
+            "future": 0.0
+          }
+        }
+      },
+      {
+        "item_id": 826,
+        "title": "Lazy Jane",
+        "artist": "STEVE CAMP",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.5,
+          "emotional_sophistication": 0.8,
+          "thematic_elements": {
+            "love": 0.0,
+            "life": 0.0,
+            "social": 0.0
+          },
+          "temporal_focus": {
+            "past": 0.5,
+            "present": 0.5,
+            "future": 0.0
+          }
+        }
+      },
+      {
+        "item_id": 676,
+        "title": "My Happy Ending",
+        "artist": "Avril Lavigne",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.9,
+            "life": 0.8,
+            "social": 0.4
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.8,
+            "future": 0.0
+          }
+        }
+      },
+      {
+        "item_id": 740,
+        "title": NaN,
+        "artist": NaN,
+        "rating": 5
+      },
+      {
+        "item_id": 597,
+        "title": "Swim",
+        "artist": "Surfer Blood",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.5,
+          "emotional_sophistication": 0.8,
+          "thematic_elements": {
+            "love": 0.0,
+            "life": 0.0,
+            "social": 0.0
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.2,
+            "future": 0.0
+          }
+        }
+      },
+      {
+        "item_id": 120,
+        "title": "You Can't Roller Skate In A Buffalo Herd",
+        "artist": "Roger Miller",
+        "rating": 5
+      },
+      {
+        "item_id": 132,
+        "title": "Somebody To Love",
+        "artist": "Queen",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.5,
+          "emotional_sophistication": 0.8,
+          "thematic_elements": {
+            "love": 0.9,
+            "life": 0.7,
+            "social": 0.2
+          },
+          "temporal_focus": {
+            "past": 0.6,
+            "present": 0.8,
+            "future": 0.4
+          }
+        }
+      }
+    ],
+    "lyrical_preferences": {
+      "narrative_complexity": {
+        "mean": 0.6,
+        "std": 0.14142135623730953
+      },
+      "emotional_sophistication": {
+        "mean": 0.8333333333333334,
+        "std": 0.04714045207910316
+      },
+      "thematic_elements_love": {
+        "mean": 0.45,
+        "std": 0.45000000000000007
+      },
+      "thematic_elements_life": {
+        "mean": 0.3833333333333333,
+        "std": 0.3847798793538399
+      },
+      "thematic_elements_social": {
+        "mean": 0.19999999999999998,
+        "std": 0.23094010767585033
+      },
+      "temporal_focus_past": {
+        "mean": 0.7166666666666667,
+        "std": 0.12133516482134199
+      },
+      "temporal_focus_present": {
+        "mean": 0.5166666666666667,
+        "std": 0.31841621957571337
+      },
+      "temporal_focus_future": {
+        "mean": 0.10000000000000002,
+        "std": 0.15275252316519466
+      }
+    },
+    "cluster": 0
+  },
+  "29": {
+    "favorite_songs": [
+      {
+        "item_id": 120,
+        "title": "You Can't Roller Skate In A Buffalo Herd",
+        "artist": "Roger Miller",
+        "rating": 4
+      },
+      {
+        "item_id": 863,
+        "title": "Life In Technicolor Ii",
+        "artist": "Coldplay",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.0,
+          "emotional_sophistication": 0.0,
+          "thematic_elements": {
+            "love": 1.0,
+            "life": 0.0,
+            "social": 0.0
+          },
+          "temporal_focus": {
+            "past": 0.0,
+            "present": 1.0,
+            "future": 1.0
+          }
+        }
+      },
+      {
+        "item_id": 826,
+        "title": "Lazy Jane",
+        "artist": "STEVE CAMP",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.5,
+          "emotional_sophistication": 0.8,
+          "thematic_elements": {
+            "love": 0.0,
+            "life": 0.0,
+            "social": 0.0
+          },
+          "temporal_focus": {
+            "past": 0.5,
+            "present": 0.5,
+            "future": 0.0
+          }
+        }
+      },
+      {
+        "item_id": 132,
+        "title": "Somebody To Love",
+        "artist": "Queen",
+        "rating": 5,
+        "lyrical_features": {
+          "narrative_complexity": 0.5,
+          "emotional_sophistication": 0.8,
+          "thematic_elements": {
+            "love": 0.9,
+            "life": 0.7,
+            "social": 0.2
+          },
+          "temporal_focus": {
+            "past": 0.6,
+            "present": 0.8,
+            "future": 0.4
+          }
+        }
+      },
+      {
+        "item_id": 468,
+        "title": "Livin' On A Prayer",
+        "artist": "Bon Jovi",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.9,
+            "life": 0.8,
+            "social": 0.6
+          },
+          "temporal_focus": {
+            "past": 0.9,
+            "present": 0.8,
+            "future": 0.7
+          }
+        }
+      },
+      {
+        "item_id": 740,
+        "title": NaN,
+        "artist": NaN,
+        "rating": 4
+      },
+      {
+        "item_id": 17,
+        "title": "Can't Let Go",
+        "artist": "Lucinda Williams",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.9,
+            "life": 0.8,
+            "social": 0.6
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.8,
+            "future": 0.0
+          }
+        }
+      },
+      {
+        "item_id": 676,
+        "title": "My Happy Ending",
+        "artist": "Avril Lavigne",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.9,
+            "life": 0.8,
+            "social": 0.4
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.8,
+            "future": 0.0
+          }
+        }
+      }
+    ],
+    "lyrical_preferences": {
+      "narrative_complexity": {
+        "mean": 0.5666666666666668,
+        "std": 0.28674417556808757
+      },
+      "emotional_sophistication": {
+        "mean": 0.7166666666666667,
+        "std": 0.32360813064912664
+      },
+      "thematic_elements_love": {
+        "mean": 0.7666666666666666,
+        "std": 0.34480268109295337
+      },
+      "thematic_elements_life": {
+        "mean": 0.5166666666666666,
+        "std": 0.36704525909242075
+      },
+      "thematic_elements_social": {
+        "mean": 0.3,
+        "std": 0.2516611478423583
+      },
+      "temporal_focus_past": {
+        "mean": 0.6,
+        "std": 0.30000000000000004
+      },
+      "temporal_focus_present": {
+        "mean": 0.7833333333333332,
+        "std": 0.1462494064565354
+      },
+      "temporal_focus_future": {
+        "mean": 0.3499999999999999,
+        "std": 0.39051248379533277
+      }
+    },
+    "cluster": 2
+  },
+  "30": {
+    "favorite_songs": [
+      {
+        "item_id": 17,
+        "title": "Can't Let Go",
+        "artist": "Lucinda Williams",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.9,
+            "life": 0.8,
+            "social": 0.6
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.8,
+            "future": 0.0
+          }
+        }
+      },
+      {
+        "item_id": 120,
+        "title": "You Can't Roller Skate In A Buffalo Herd",
+        "artist": "Roger Miller",
+        "rating": 4
+      },
+      {
+        "item_id": 707,
+        "title": "The Good Left Undone",
+        "artist": "Rise Against",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.8,
+            "life": 0.7,
+            "social": 0.3
+          },
+          "temporal_focus": {
+            "past": 0.7,
+            "present": 0.8,
+            "future": 0.4
+          }
+        }
+      },
+      {
+        "item_id": 5,
+        "title": "You Give Love A Bad Name",
+        "artist": "Bon Jovi",
+        "rating": 5,
+        "lyrical_features": {
+          "narrative_complexity": 0.0,
+          "emotional_sophistication": 0.0,
+          "thematic_elements": {
+            "love": 1.0,
+            "life": 0.0,
+            "social": 0.0
+          },
+          "temporal_focus": {
+            "past": 1.0,
+            "present": 1.0,
+            "future": 0.0
+          }
+        }
+      },
+      {
+        "item_id": 395,
+        "title": "I Should Be...",
+        "artist": "Dru Hill",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.9,
+            "life": 0.6,
+            "social": 0.4
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.9,
+            "future": 0.6
+          }
+        }
+      },
+      {
+        "item_id": 676,
+        "title": "My Happy Ending",
+        "artist": "Avril Lavigne",
+        "rating": 5,
+        "lyrical_features": {
+          "narrative_complexity": 0.8,
+          "emotional_sophistication": 0.9,
+          "thematic_elements": {
+            "love": 0.9,
+            "life": 0.8,
+            "social": 0.4
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.8,
+            "future": 0.0
+          }
+        }
+      },
+      {
+        "item_id": 826,
+        "title": "Lazy Jane",
+        "artist": "STEVE CAMP",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.5,
+          "emotional_sophistication": 0.8,
+          "thematic_elements": {
+            "love": 0.0,
+            "life": 0.0,
+            "social": 0.0
+          },
+          "temporal_focus": {
+            "past": 0.5,
+            "present": 0.5,
+            "future": 0.0
+          }
+        }
+      },
+      {
+        "item_id": 132,
+        "title": "Somebody To Love",
+        "artist": "Queen",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.5,
+          "emotional_sophistication": 0.8,
+          "thematic_elements": {
+            "love": 0.9,
+            "life": 0.7,
+            "social": 0.2
+          },
+          "temporal_focus": {
+            "past": 0.6,
+            "present": 0.8,
+            "future": 0.4
+          }
+        }
+      },
+      {
+        "item_id": 740,
+        "title": NaN,
+        "artist": NaN,
+        "rating": 4
+      },
+      {
+        "item_id": 793,
+        "title": "Bala Bay Inn",
+        "artist": "Valley of the Giants",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.5,
+          "emotional_sophistication": 0.8,
+          "thematic_elements": {
+            "love": 0.0,
+            "life": 0.0,
+            "social": 0.0
+          },
+          "temporal_focus": {
+            "past": 0.8,
+            "present": 0.0,
+            "future": 0.2
+          }
+        }
+      },
+      {
+        "item_id": 863,
+        "title": "Life In Technicolor Ii",
+        "artist": "Coldplay",
+        "rating": 4,
+        "lyrical_features": {
+          "narrative_complexity": 0.0,
+          "emotional_sophistication": 0.0,
+          "thematic_elements": {
+            "love": 1.0,
+            "life": 0.0,
+            "social": 0.0
+          },
+          "temporal_focus": {
+            "past": 0.0,
+            "present": 1.0,
+            "future": 1.0
+          }
+        }
+      }
+    ],
+    "lyrical_preferences": {
+      "narrative_complexity": {
+        "mean": 0.5222222222222223,
+        "std": 0.30832082056692467
+      },
+      "emotional_sophistication": {
+        "mean": 0.6666666666666666,
+        "std": 0.3590109871423003
+      },
+      "thematic_elements_love": {
+        "mean": 0.7111111111111111,
+        "std": 0.38425814368423516
+      },
+      "thematic_elements_life": {
+        "mean": 0.4,
+        "std": 0.3620926830400072
+      },
+      "thematic_elements_social": {
+        "mean": 0.2111111111111111,
+        "std": 0.21314806770278752
+      },
+      "temporal_focus_past": {
+        "mean": 0.6666666666666666,
+        "std": 0.27080128015453203
+      },
+      "temporal_focus_present": {
+        "mean": 0.7333333333333333,
+        "std": 0.2943920288775949
+      },
+      "temporal_focus_future": {
+        "mean": 0.2888888888888889,
+        "std": 0.3281071791162978
+      }
+    },
+    "cluster": 2
+  }
+}

@@ -1,0 +1,150 @@
+INFO:root:Save model to ../models/MLP_3class/setting2-110__110__setting2_CONTEXT_sub_110/model.pt
+INFO:root:Namespace(model_name='MLP')
+INFO:root:--------------------------------------------- BEGIN: 2024-11-07 19:41:33 ---------------------------------------------
+INFO:root:
+=============================================
+ Arguments            | Values               
+=============================================
+ activation           | relu                 
+ alpha                | 0.0001               
+ batch_size           | 64                   
+ class_num            | 3                    
+ context_column_group | CONTEXT_sub          
+ datadir              | ../datasets/Psych... 
+ dataname             | setting2-110         
+ hidden_layer_sizes   | (100,)               
+ learning_rate        | 0.002                
+ load_metadata        | 1                    
+ max_iter             | 1000                 
+ metrics              | accuracy,macro_f1... 
+ patience             | 50                   
+ random_seed          | 110                  
+ save_anno            | setting2_CONTEXT_... 
+ save_prediction      | 0                    
+ solver               | adam                 
+=============================================
+INFO:root:train results -- accuracy:0.3062, macro_f1:0.1665, micro_f1:0.3062
+INFO:root:val results -- accuracy:0.3295, macro_f1:0.1652, micro_f1:0.3295
+INFO:root:test results -- accuracy:0.2974, macro_f1:0.1700, micro_f1:0.2974
+INFO:root:Save model to ../models/MLP_3class/setting2-110__110__setting2_CONTEXT_sub_110/model.pt
+INFO:root:Namespace(model_name='MLP')
+INFO:root:--------------------------------------------- BEGIN: 2024-11-09 23:31:57 ---------------------------------------------
+INFO:root:
+=============================================
+ Arguments            | Values               
+=============================================
+ activation           | relu                 
+ alpha                | 1e-06                
+ batch_size           | 256                  
+ class_num            | 3                    
+ context_column_group | CONTEXT_sub          
+ datadir              | ../datasets/Psych... 
+ dataname             | setting2-110         
+ hidden_layer_sizes   | (100,)               
+ learning_rate        | 0.005                
+ load_metadata        | 1                    
+ max_iter             | 1000                 
+ metrics              | accuracy,macro_f1... 
+ patience             | 50                   
+ random_seed          | 110                  
+ save_anno            | setting2_CONTEXT_... 
+ save_prediction      | 0                    
+ solver               | adam                 
+=============================================
+INFO:root:train results -- accuracy:0.3062, macro_f1:0.1665, micro_f1:0.3062
+INFO:root:val results -- accuracy:0.3295, macro_f1:0.1652, micro_f1:0.3295
+INFO:root:test results -- accuracy:0.2974, macro_f1:0.1700, micro_f1:0.2974
+INFO:root:Save model to ../models/MLP_3class/setting2-110__110__setting2_CONTEXT_sub_110/model.pt
+INFO:root:Namespace(model_name='MLP')
+INFO:root:--------------------------------------------- BEGIN: 2024-11-09 23:33:56 ---------------------------------------------
+INFO:root:
+=============================================
+ Arguments            | Values               
+=============================================
+ activation           | relu                 
+ alpha                | 1e-06                
+ batch_size           | 256                  
+ class_num            | 3                    
+ context_column_group | CONTEXT_sub          
+ datadir              | ../datasets/Psych... 
+ dataname             | setting2-110         
+ hidden_layer_sizes   | (100,)               
+ learning_rate        | 0.005                
+ load_metadata        | 1                    
+ max_iter             | 2000                 
+ metrics              | accuracy,macro_f1... 
+ patience             | 50                   
+ random_seed          | 110                  
+ save_anno            | setting2_CONTEXT_... 
+ save_prediction      | 0                    
+ solver               | adam                 
+=============================================
+INFO:root:train results -- accuracy:0.3062, macro_f1:0.1665, micro_f1:0.3062
+INFO:root:val results -- accuracy:0.3295, macro_f1:0.1652, micro_f1:0.3295
+INFO:root:test results -- accuracy:0.2974, macro_f1:0.1700, micro_f1:0.2974
+INFO:root:Save model to ../models/MLP_3class/setting2-110__110__setting2_CONTEXT_sub_110/model.pt
+INFO:root:Namespace(model_name='MLP')
+INFO:root:--------------------------------------------- BEGIN: 2024-11-09 23:35:58 ---------------------------------------------
+INFO:root:
+=============================================
+ Arguments            | Values               
+=============================================
+ activation           | relu                 
+ alpha                | 1e-06                
+ batch_size           | 256                  
+ class_num            | 3                    
+ context_column_group | CONTEXT_sub          
+ datadir              | ../datasets/Psych... 
+ dataname             | setting2-110         
+ hidden_layer_sizes   | (100,)               
+ learning_rate        | 0.005                
+ load_metadata        | 1                    
+ max_iter             | 2000                 
+ metrics              | accuracy,macro_f1... 
+ patience             | 50                   
+ random_seed          | 110                  
+ save_anno            | setting2_CONTEXT_... 
+ save_prediction      | 0                    
+ solver               | adam                 
+=============================================
+INFO:root:train results -- accuracy:0.3062, macro_f1:0.1665, micro_f1:0.3062
+INFO:root:val results -- accuracy:0.3295, macro_f1:0.1652, micro_f1:0.3295
+INFO:root:test results -- accuracy:0.2974, macro_f1:0.1700, micro_f1:0.2974
+INFO:root:Save model to ../models/MLP_3class/setting2-110__110__setting2_CONTEXT_sub_110/model.pt
+INFO:root:Namespace(model_name='MLP')
+INFO:root:--------------------------------------------- BEGIN: 2024-12-07 04:14:10 ---------------------------------------------
+INFO:root:
+=============================================
+ Arguments            | Values               
+=============================================
+ activation           | relu                 
+ alpha                | 1e-06                
+ batch_size           | 256                  
+ class_num            | 3                    
+ context_column_group | CONTEXT_sub          
+ datadir              | ../datasets/Psych... 
+ dataname             | setting2-110         
+ hidden_layer_sizes   | (100,)               
+ learning_rate        | 0.005                
+ load_metadata        | 1                    
+ max_iter             | 2000                 
+ metrics              | accuracy,macro_f1... 
+ patience             | 50                   
+ random_seed          | 110                  
+ save_anno            | setting2_CONTEXT_... 
+ save_prediction      | 0                    
+ solver               | adam                 
+=============================================
+INFO:root:train results -- accuracy:0.3062, macro_f1:0.1665, micro_f1:0.3062
+INFO:root:val results -- accuracy:0.3295, macro_f1:0.1652, micro_f1:0.3295
+INFO:root:test results -- accuracy:0.2974, macro_f1:0.1700, micro_f1:0.2974
+INFO:root:Save model to ../models/MLP_3class/setting2-110__110__setting2_CONTEXT_sub_110/model.pt
+INFO:root:Namespace(model_name='MLP')
+INFO:root:train results -- accuracy:0.3062, macro_f1:0.1665, micro_f1:0.3062
+INFO:root:val results -- accuracy:0.3295, macro_f1:0.1652, micro_f1:0.3295
+INFO:root:test results -- accuracy:0.2974, macro_f1:0.1700, micro_f1:0.2974
+INFO:root:Save model to ../models/MLP_3class/setting2-110__110__setting2_CONTEXT_sub_110/model.pt
+INFO:root:Namespace(model_name='MLP')
+INFO:root:train results -- accuracy:0.4919, macro_f1:0.3059, micro_f1:0.4919
+INFO:root:val results -- accuracy:0.4773, macro_f1:0.3090, micro_f1:0.4773
+INFO:root:test results -- accuracy:0.5128, macro_f1:0.3005, micro_f1:0.5128

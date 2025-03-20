@@ -1,0 +1,25 @@
+INFO:root:Save model to ../models/SGD_3class/setting2-108__108__setting2_CONTEXT_obj_108__loss=modified_huber__penalty=elasticnet__regularization=0.0001__l1_ratio=0.15/model.pt
+INFO:root:Namespace(model_name='SGD')
+INFO:root:--------------------------------------------- BEGIN: 2024-11-07 20:05:25 ---------------------------------------------
+INFO:root:
+=============================================
+ Arguments            | Values               
+=============================================
+ class_num            | 3                    
+ context_column_group | CONTEXT_obj          
+ datadir              | ../datasets/Psych... 
+ dataname             | setting2-108         
+ l1_ratio             | 0.15                 
+ load_metadata        | 1                    
+ loss                 | modified_huber       
+ max_iter             | 3000                 
+ metrics              | accuracy,macro_f1... 
+ penalty              | elasticnet           
+ random_seed          | 108                  
+ regularization       | 0.0001               
+ save_anno            | setting2_CONTEXT_... 
+ save_prediction      | 0                    
+=============================================
+INFO:root:train results -- accuracy:0.5130, macro_f1:0.2479, micro_f1:0.5130
+INFO:root:val results -- accuracy:0.5114, macro_f1:0.2735, micro_f1:0.5114
+INFO:root:test results -- accuracy:0.5026, macro_f1:0.2341, micro_f1:0.5026

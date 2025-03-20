@@ -1,0 +1,27 @@
+INFO:root:Save model to ../models/RF_3class/setting3-110__110__setting3_CONTEXT_sub_110__n_estimators=50__max_depth=5__max_features=None/model.pt
+INFO:root:Namespace(model_name='RF')
+INFO:root:--------------------------------------------- BEGIN: 2024-11-07 19:35:35 ---------------------------------------------
+INFO:root:
+=============================================
+ Arguments            | Values               
+=============================================
+ class_num            | 3                    
+ context_column_group | CONTEXT_sub          
+ criterion            | gini                 
+ datadir              | ../datasets/Psych... 
+ dataname             | setting3-110         
+ load_metadata        | 1                    
+ max_depth            | 5                    
+ max_features         |                      
+ max_leaf_nodes       |                      
+ metrics              | accuracy,macro_f1... 
+ min_samples_leaf     | 1                    
+ min_samples_split    | 2                    
+ n_estimators         | 50                   
+ random_seed          | 110                  
+ save_anno            | setting3_CONTEXT_... 
+ save_prediction      | 0                    
+=============================================
+INFO:root:train results -- accuracy:0.7231, macro_f1:0.6562, micro_f1:0.7231
+INFO:root:val results -- accuracy:0.6705, macro_f1:0.5906, micro_f1:0.6705
+INFO:root:test results -- accuracy:0.4833, macro_f1:0.2979, micro_f1:0.4833

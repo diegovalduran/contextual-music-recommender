@@ -1,0 +1,122 @@
+INFO:root:Save model to ../models/MLP_3class/setting3-109__109__setting3_CONTEXT_obj_109/model.pt
+INFO:root:Namespace(model_name='MLP')
+INFO:root:--------------------------------------------- BEGIN: 2024-11-07 19:42:07 ---------------------------------------------
+INFO:root:
+=============================================
+ Arguments            | Values               
+=============================================
+ activation           | relu                 
+ alpha                | 0.0001               
+ batch_size           | 256                  
+ class_num            | 3                    
+ context_column_group | CONTEXT_obj          
+ datadir              | ../datasets/Psych... 
+ dataname             | setting3-109         
+ hidden_layer_sizes   | (100,)               
+ learning_rate        | 0.01                 
+ load_metadata        | 1                    
+ max_iter             | 1000                 
+ metrics              | accuracy,macro_f1... 
+ patience             | 50                   
+ random_seed          | 109                  
+ save_anno            | setting3_CONTEXT_... 
+ save_prediction      | 0                    
+ solver               | sgd                  
+=============================================
+INFO:root:train results -- accuracy:0.4984, macro_f1:0.2217, micro_f1:0.4984
+INFO:root:val results -- accuracy:0.5568, macro_f1:0.2384, micro_f1:0.5568
+INFO:root:test results -- accuracy:0.4656, macro_f1:0.2118, micro_f1:0.4656
+INFO:root:Save model to ../models/MLP_3class/setting3-109__109__setting3_CONTEXT_obj_109/model.pt
+INFO:root:Namespace(model_name='MLP')
+INFO:root:--------------------------------------------- BEGIN: 2024-11-09 23:34:31 ---------------------------------------------
+INFO:root:
+=============================================
+ Arguments            | Values               
+=============================================
+ activation           | relu                 
+ alpha                | 1e-06                
+ batch_size           | 512                  
+ class_num            | 3                    
+ context_column_group | CONTEXT_obj          
+ datadir              | ../datasets/Psych... 
+ dataname             | setting3-109         
+ hidden_layer_sizes   | (100,)               
+ learning_rate        | 0.001                
+ load_metadata        | 1                    
+ max_iter             | 2000                 
+ metrics              | accuracy,macro_f1... 
+ patience             | 50                   
+ random_seed          | 109                  
+ save_anno            | setting3_CONTEXT_... 
+ save_prediction      | 0                    
+ solver               | lbfgs                
+=============================================
+INFO:root:train results -- accuracy:0.3078, macro_f1:0.1569, micro_f1:0.3078
+INFO:root:val results -- accuracy:0.2727, macro_f1:0.1429, micro_f1:0.2727
+INFO:root:test results -- accuracy:0.3104, macro_f1:0.1579, micro_f1:0.3104
+INFO:root:Save model to ../models/MLP_3class/setting3-109__109__setting3_CONTEXT_obj_109/model.pt
+INFO:root:Namespace(model_name='MLP')
+INFO:root:--------------------------------------------- BEGIN: 2024-11-09 23:36:32 ---------------------------------------------
+INFO:root:
+=============================================
+ Arguments            | Values               
+=============================================
+ activation           | relu                 
+ alpha                | 1e-06                
+ batch_size           | 512                  
+ class_num            | 3                    
+ context_column_group | CONTEXT_obj          
+ datadir              | ../datasets/Psych... 
+ dataname             | setting3-109         
+ hidden_layer_sizes   | (100,)               
+ learning_rate        | 0.001                
+ load_metadata        | 1                    
+ max_iter             | 2000                 
+ metrics              | accuracy,macro_f1... 
+ patience             | 50                   
+ random_seed          | 109                  
+ save_anno            | setting3_CONTEXT_... 
+ save_prediction      | 0                    
+ solver               | adam                 
+=============================================
+INFO:root:train results -- accuracy:0.4300, macro_f1:0.3131, micro_f1:0.4300
+INFO:root:val results -- accuracy:0.4318, macro_f1:0.3159, micro_f1:0.4318
+INFO:root:test results -- accuracy:0.4028, macro_f1:0.2710, micro_f1:0.4028
+INFO:root:Save model to ../models/MLP_3class/setting3-109__109__setting3_CONTEXT_obj_109/model.pt
+INFO:root:Namespace(model_name='MLP')
+INFO:root:--------------------------------------------- BEGIN: 2024-12-07 04:15:02 ---------------------------------------------
+INFO:root:
+=============================================
+ Arguments            | Values               
+=============================================
+ activation           | relu                 
+ alpha                | 1e-06                
+ batch_size           | 512                  
+ class_num            | 3                    
+ context_column_group | CONTEXT_obj          
+ datadir              | ../datasets/Psych... 
+ dataname             | setting3-109         
+ hidden_layer_sizes   | (100,)               
+ learning_rate        | 0.001                
+ load_metadata        | 1                    
+ max_iter             | 2000                 
+ metrics              | accuracy,macro_f1... 
+ patience             | 50                   
+ random_seed          | 109                  
+ save_anno            | setting3_CONTEXT_... 
+ save_prediction      | 0                    
+ solver               | adam                 
+=============================================
+INFO:root:train results -- accuracy:0.4300, macro_f1:0.3131, micro_f1:0.4300
+INFO:root:val results -- accuracy:0.4318, macro_f1:0.3159, micro_f1:0.4318
+INFO:root:test results -- accuracy:0.4028, macro_f1:0.2710, micro_f1:0.4028
+INFO:root:Save model to ../models/MLP_3class/setting3-109__109__setting3_CONTEXT_obj_109/model.pt
+INFO:root:Namespace(model_name='MLP')
+INFO:root:train results -- accuracy:0.4300, macro_f1:0.3131, micro_f1:0.4300
+INFO:root:val results -- accuracy:0.4318, macro_f1:0.3159, micro_f1:0.4318
+INFO:root:test results -- accuracy:0.4028, macro_f1:0.2710, micro_f1:0.4028
+INFO:root:Save model to ../models/MLP_3class/setting3-109__109__setting3_CONTEXT_obj_109/model.pt
+INFO:root:Namespace(model_name='MLP')
+INFO:root:train results -- accuracy:0.3876, macro_f1:0.2860, micro_f1:0.3876
+INFO:root:val results -- accuracy:0.4205, macro_f1:0.3039, micro_f1:0.4205
+INFO:root:test results -- accuracy:0.3399, macro_f1:0.2452, micro_f1:0.3399

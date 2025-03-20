@@ -1,0 +1,28 @@
+INFO:root:Save model to ../models/GBDT_3class/setting3-108__108__setting3_CONTEXT_obj_108__lr=0.05__n_estimators=150/model.pt
+INFO:root:Namespace(model_name='GBDT')
+INFO:root:--------------------------------------------- BEGIN: 2024-11-07 19:47:38 ---------------------------------------------
+INFO:root:
+=============================================
+ Arguments            | Values               
+=============================================
+ class_num            | 3                    
+ context_column_group | CONTEXT_obj          
+ datadir              | ../datasets/Psych... 
+ dataname             | setting3-108         
+ load_metadata        | 1                    
+ lr                   | 0.05                 
+ max_depth            | 4                    
+ max_features         |                      
+ max_leaf_nodes       |                      
+ metrics              | accuracy,macro_f1... 
+ min_samples_leaf     | 1                    
+ min_samples_split    | 2                    
+ n_estimators         | 150                  
+ random_seed          | 108                  
+ save_anno            | setting3_CONTEXT_... 
+ save_prediction      | 0                    
+ subsample            | 1.0                  
+=============================================
+INFO:root:train results -- accuracy:0.5863, macro_f1:0.4067, micro_f1:0.5863
+INFO:root:val results -- accuracy:0.5568, macro_f1:0.3953, micro_f1:0.5568
+INFO:root:test results -- accuracy:0.4617, macro_f1:0.2180, micro_f1:0.4617

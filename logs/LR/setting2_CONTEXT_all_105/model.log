@@ -1,0 +1,21 @@
+INFO:root:Model and Log Paths Set.
+INFO:root:--------------------------------------------- BEGIN: 2024-11-07 04:00:09 ---------------------------------------------
+INFO:root:
+=============================================
+ Arguments            | Values               
+=============================================
+ class_num            | 3                    
+ context_column_group | CONTEXT_all          
+ datadir              | ../dataset/Psycho... 
+ dataname             | setting2-105         
+ load_metadata        | 1                    
+ max_iter             | 1000                 
+ metrics              | accuracy,macro_f1... 
+ penalty              | l1                   
+ random_seed          | 105                  
+ regularization       | 10.0                 
+ save_anno            | setting2_CONTEXT_... 
+ save_prediction      | 0                    
+ solver               | liblinear            
+ verbose              | 20                   
+=============================================
